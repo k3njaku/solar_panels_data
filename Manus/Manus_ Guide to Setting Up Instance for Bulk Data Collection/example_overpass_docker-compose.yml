@@ -1,0 +1,31 @@
+version: "3.8"
+
+services:
+  overpass:
+    image: wiktorn/overpass-api:latest
+    container_name: overpass_api_example
+    ports:
+      - "12345:80"  # Host_Port:Container_Port (Overpass API)
+    volumes:
+      - /srv/overpass_db_example:/db # Persistent database directory on host
+      - ./osm_data_example:/osm_data # Directory on host containing your PBF file (e.g., netherlands-latest.osm.pbf)
+    environment:
+      OVERPASS_MODE: "clone"
+      OVERPASS_CLONE_FILE: "/osm_data/netherlands-latest.osm.pbf" # Path to PBF inside container
+      OVERPASS_DIFF_URL: "https://download.geofabrik.de/europe/netherlands-updates/" # Update URL for your region
+      OVERPASS_RULES_LOAD: 10 # Threads for initial data load
+      OVERPASS_MAX_TIMEOUT: 1000 # Optional: Max query timeout in seconds
+      # OVERPASS_META: "no" # Set to "yes" for metadata (larger DB)
+      # OVERPASS_SPACE_LIMIT: 2000000000 # Optional: Max memory for a query (bytes)
+    restart: unless-stopped
+    # mem_limit: 8g # Optional: Allocate more memory if available
+    # cpus: 4       # Optional: Allocate more CPUs if available
+
+# Instructions:
+# 1. Save this as docker-compose.yml in a new directory (e.g., ~/overpass-docker-example).
+# 2. Create a directory named 'osm_data_example' inside '~/overpass-docker-example'.
+# 3. Place your downloaded OSM PBF file (e.g., 'netherlands-latest.osm.pbf') into '~/overpass-docker-example/osm_data_example/'.
+# 4. Create the host database directory: sudo mkdir -p /srv/overpass_db_example && sudo chown $(whoami):$(whoami) /srv/overpass_db_example
+# 5. Run 'docker-compose up -d' in '~/overpass-docker-example'.
+# 6. Monitor logs with 'docker-compose logs -f overpass'.
+# 7. API will be available at http://YOUR_SERVER_IP:12345/api/interpreter

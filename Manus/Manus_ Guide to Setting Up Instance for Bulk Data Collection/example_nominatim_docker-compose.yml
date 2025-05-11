@@ -1,0 +1,29 @@
+version: "3.8"
+
+services:
+  nominatim:
+    image: mediagis/nominatim:4.3 # Check for the latest stable version on Docker Hub
+    container_name: nominatim_service_example
+    ports:
+      - "8088:8080"  # Host_Port:Container_Port (Nominatim web interface)
+    volumes:
+      - /srv/nominatim_data_example:/var/lib/postgresql/14/main # Persistent PostgreSQL data on host
+      - ./osm_data_example:/data # Directory on host containing your PBF file (e.g., netherlands-latest.osm.pbf)
+    environment:
+      PBF_PATH: "/data/netherlands-latest.osm.pbf" # Path to PBF inside container
+      REPLICATION_URL: "https://download.geofabrik.de/europe/netherlands-updates/" # Update URL for your region
+      # IMPORT_WIKIPEDIA: "true" # Optional: Uncomment to import Wikipedia importance scores (can increase import time)
+      # NOMINATIM_MODE: "update" # After initial import, can be set to update mode
+      THREADS: 4 # Optional: Number of threads for import, adjust based on your CPU cores
+    restart: unless-stopped
+    # mem_limit: 16g # Optional: Allocate more memory if available (Nominatim import is memory intensive)
+    # cpus: 4       # Optional: Allocate more CPUs if available
+
+# Instructions:
+# 1. Save this as docker-compose-nominatim.yml in a new directory (e.g., ~/nominatim-docker-example).
+# 2. Create a directory named 'osm_data_example' inside '~/nominatim-docker-example' (if not already created for Overpass).
+# 3. Place your downloaded OSM PBF file (e.g., 'netherlands-latest.osm.pbf') into '~/nominatim-docker-example/osm_data_example/'.
+# 4. Create the host database directory: sudo mkdir -p /srv/nominatim_data_example && sudo chown -R 999:999 /srv/nominatim_data_example (user 999 is often used by postgres in mediagis/nominatim image).
+# 5. Run 'docker-compose -f docker-compose-nominatim.yml up -d' in '~/nominatim-docker-example'.
+# 6. Monitor logs with 'docker logs -f nominatim_service_example'. Import will take a long time.
+# 7. API will be available at http://YOUR_SERVER_IP:8088 (e.g., for search or reverse geocoding endpoints like /search or /reverse).

@@ -1,0 +1,11 @@
+# Comprehensive Guide to Self-Hosting Overpass API and Nominatim for Bulk OpenStreetMap Data Acquisition
+
+## Introduction
+
+Welcome to this comprehensive guide designed to empower you to set up your own instances of the Overpass API and Nominatim. If you're looking to perform large-scale data extraction from OpenStreetMap (OSM) for your projects, relying on public API instances can quickly lead to rate limiting, performance bottlenecks, or usage restrictions. By self-hosting these powerful tools, you gain full control over your data acquisition pipeline, enabling you to query and geocode OSM data at the scale and speed your project demands, without external dependencies or limitations.
+
+This guide is tailored for users who may not be coding experts but need to leverage bulk OSM data. We will walk you through the benefits of self-hosting, the necessary prerequisites, detailed step-by-step installation and configuration instructions for both Overpass API and Nominatim, and how to adapt your existing scripts to query your local instances. We will also cover data import for specific regions (like the Netherlands, as per your project context), example scripts, and expected outputs to help you seamlessly integrate this setup into your workflow.
+
+The primary benefit of self-hosting is the ability to perform bulk queries without hitting the usage limits imposed by public servers. This is crucial for projects requiring extensive datasets, such as analyzing solar panel installations across a large geographical area. Furthermore, a local instance can offer significantly faster response times for your queries, as the data resides on your own infrastructure, and you are not competing with other users for resources. You also gain the flexibility to customize the setup, update data at your own pace, and ensure data privacy if your project involves sensitive information.
+
+This document aims to provide clear, actionable instructions, including code snippets and configuration examples, to make the setup process as smooth as possible. By the end of this guide, you should have a functional self-hosted Overpass API and Nominatim environment, ready to support your bulk data needs for your solar project and beyond.
