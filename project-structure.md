@@ -1,0 +1,151 @@
+# Workspace Structure
+
+Files listed in .gitignore will be excluded.
+
+## Configuration Files
+
+## File Structure
+
+- 📁 ChatGPT/
+- 📁 Input/
+- 📁 Manus/
+  - 📁 Manus_ Guide to Setting Up Instance for Bulk Data Collection/
+    - 📄 Comprehensive_Self_Hosting_Guide.md
+    - 📄 WhatsApp Image 2025-05-03 at 02.13.43_db127afd.jpg
+    - 📄 collect_solar_data.py
+      - Imports:
+        - import requests
+        - import json
+        - import pandas as pd
+      - Functions:
+        - run_collection
+    - 📄 collect_solar_data_geocoded.py
+      - Imports:
+        - import requests
+        - import json
+        - import pandas as pd
+        - import time
+      - Functions:
+        - get_address_from_coords
+        - run_collection_and_geocoding
+    - 📄 config.py
+    - 📄 example_nominatim_docker-compose.yml
+    - 📄 example_overpass_docker-compose.yml
+    - 📄 guide_example_api_responses.md
+    - 📄 guide_example_workflow.md
+    - 📄 guide_introduction.md
+    - 📄 guide_maintenance.md
+    - 📄 guide_nominatim_setup.md
+    - 📄 guide_overpass_setup.md
+    - 📄 guide_prerequisites.md
+    - 📄 guide_script_modification.md
+    - 📄 guide_troubleshooting.md
+    - 📄 guide_workflow_integration.md
+    - 📄 north_holland_solar_buildings.csv
+    - 📄 north_holland_solar_buildings_geocoded.csv
+    - 📄 output.md
+    - 📄 response_instructions.md
+    - 📄 run_solar_data_collection_local.py
+      - Imports:
+        - import requests
+        - import json
+        - import pandas as pd
+        - import time
+        - import config.OVERPASS_API_CONFIG
+        - import config.NOMINATIM_API_CONFIG
+        - import config.NORTH_HOLLAND_AREA_ID
+        - import config.OUTPUT_CSV_PATH
+      - Functions:
+        - get_address_from_coords_local
+        - run_collection_and_geocoding_local
+    - 📄 solar_panel_script.py
+      - Imports:
+        - import requests
+        - import json
+    - 📄 test_bigdatacloud_reverse_geocode.py
+      - Imports:
+        - import requests
+        - import json
+    - 📄 test_nominatim_reverse_geocode.py
+      - Imports:
+        - import requests
+        - import json
+        - import time
+    - 📄 test_overpass.py
+      - Imports:
+        - import requests
+        - import json
+    - 📄 todo.md
+  - 📁 Manus_Using OpenStreetMap and Overpass API for Solar Panel Data/
+    - 📄 WhatsApp Image 2025-05-03 at 02.13.43_db127afd.jpg
+    - 📄 collect_solar_data.py
+      - Imports:
+        - import requests
+        - import json
+        - import pandas as pd
+      - Functions:
+        - run_collection
+    - 📄 collect_solar_data_geocoded.py
+      - Imports:
+        - import requests
+        - import json
+        - import pandas as pd
+        - import time
+      - Functions:
+        - get_address_from_coords
+        - run_collection_and_geocoding
+    - 📄 north_holland_solar_buildings.csv
+    - 📄 north_holland_solar_buildings_geocoded.csv
+    - 📄 output.md
+    - 📄 response_instructions.md
+    - 📄 solar_panel_script.py
+      - Imports:
+        - import requests
+        - import json
+    - 📄 test_bigdatacloud_reverse_geocode.py
+      - Imports:
+        - import requests
+        - import json
+    - 📄 test_nominatim_reverse_geocode.py
+      - Imports:
+        - import requests
+        - import json
+        - import time
+    - 📄 test_overpass.py
+      - Imports:
+        - import requests
+        - import json
+    - 📄 todo.md
+- 📁 Ouput/
+- 📁 Structure/
+  - 📄 project-structure.md
+- 📁 scripts/
+  - 📄 01_collect_solar_data_public_test.py
+    - Imports:
+      - import argparse
+      - import csv
+      - import json
+      - import logging
+      - import sys
+      - import time
+      - import pathlib.Path
+      - import typing.Dict
+      - import typing.List
+      - import typing.Tuple
+      - import requests
+    - Functions:
+      - build_overpass_query
+      - request_overpass
+      - request_nominatim
+      - parse_address
+      - tags_to_purpose
+      - save_checkpoint
+      - load_checkpoint
+      - capture_rows
+      - main
+- 📄 solar_data_public.log
+- 📄 terminal-history.txt
+- 📁 workLog_by_TDP/
+  - 📄 Recap.md
+  - 📄 Recap2.md
+  - 📄 Worklog 11-Apr-2025.md
