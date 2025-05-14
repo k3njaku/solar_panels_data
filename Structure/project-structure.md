@@ -118,14 +118,7 @@ Files listed in .gitignore will be excluded.
     - 📄 todo.md
 - 📁 Ouput/
 - 📁 Structure/
-  - 📄 DIRECTORY_TREE.txt
-  - 📄 generate_overview.bat
-  - 📄 generate_overview.py
-    - Imports:
-      - import os
-      - import subprocess
-      - import datetime.datetime
-  - 📄 start_venv.bat
+  - 📄 project-structure.md
 - 📁 scripts/
   - 📄 01_collect_solar_data_public_test.py
     - Imports:
@@ -133,7 +126,6 @@ Files listed in .gitignore will be excluded.
       - import csv
       - import json
       - import logging
-      - import os
       - import sys
       - import time
       - import pathlib.Path
@@ -143,11 +135,17 @@ Files listed in .gitignore will be excluded.
       - import requests
     - Functions:
       - build_overpass_query
-      - call_overpass
-      - reverse_geocode
+      - request_overpass
+      - request_nominatim
       - parse_address
-      - osm_tags_to_purpose
-      - checkpoint_save
-      - checkpoint_load
-      - process_elements
+      - tags_to_purpose
+      - save_checkpoint
+      - load_checkpoint
+      - capture_rows
       - main
+- 📄 solar_data_public.log
+- 📄 terminal-history.txt
+- 📁 workLog_by_TDP/
+  - 📄 Recap.md
+  - 📄 Recap2.md
+  - 📄 Worklog 11-Apr-2025.md
