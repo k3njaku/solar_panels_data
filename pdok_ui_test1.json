@@ -1,0 +1,136 @@
+{
+  "response": {
+    "numFound": 273,
+    "start": 0,
+    "maxScore": 5.64967,
+    "numFoundExact": true,
+    "docs": [
+      {
+        "type": "adres",
+        "weergavenaam": "Damrak 201, Amsterdam",
+        "adrestype": "hoofdadres",
+        "id": "adr-c96efc5a0d655c17b76eaf809c9a92b1",
+        "score": 5.64967
+      },
+      {
+        "type": "adres",
+        "weergavenaam": "Damrak 1, 1012LG Amsterdam",
+        "adrestype": "hoofdadres",
+        "id": "adr-8f4d573be765b4c80dd635ba73747903",
+        "score": 4.8841023
+      },
+      {
+        "type": "adres",
+        "weergavenaam": "Damrak 5, 1012LG Amsterdam",
+        "adrestype": "nevenadres",
+        "id": "adr-85feacee577605a8efb24661ebf649f8",
+        "score": 4.8841023
+      },
+      {
+        "type": "adres",
+        "weergavenaam": "Damrak 6, 1012LG Amsterdam",
+        "adrestype": "hoofdadres",
+        "id": "adr-366ad43b3a0954b159415d1cbd3046f8",
+        "score": 4.8841023
+      },
+      {
+        "type": "adres",
+        "weergavenaam": "Damrak 7, 1012LG Amsterdam",
+        "adrestype": "hoofdadres",
+        "id": "adr-707a68489783f2dd1ccd0c080c5840df",
+        "score": 4.8841023
+      },
+      {
+        "type": "adres",
+        "weergavenaam": "Damrak 8-1, 1012LG Amsterdam",
+        "adrestype": "hoofdadres",
+        "id": "adr-f0a52caf1667bf1d71ad2b8bb9a7ab01",
+        "score": 4.8841023
+      },
+      {
+        "type": "adres",
+        "weergavenaam": "Damrak 8-H, 1012LG Amsterdam",
+        "adrestype": "hoofdadres",
+        "id": "adr-3d5ee2a0d54e85ffb04a5908eeededfd",
+        "score": 4.8841023
+      },
+      {
+        "type": "adres",
+        "weergavenaam": "Damrak 9, 1012LG Amsterdam",
+        "adrestype": "hoofdadres",
+        "id": "adr-6ab474f2afaad8b7945e921a3e8c5109",
+        "score": 4.8841023
+      },
+      {
+        "type": "adres",
+        "weergavenaam": "Damrak 10, 1012LG Amsterdam",
+        "adrestype": "hoofdadres",
+        "id": "adr-59de6188fe0dd85338eabf646e2d2625",
+        "score": 4.8841023
+      },
+      {
+        "type": "adres",
+        "weergavenaam": "Damrak 11-2, 1012LG Amsterdam",
+        "adrestype": "hoofdadres",
+        "id": "adr-92053a76671505cc63454f8157bddfe7",
+        "score": 4.8841023
+      }
+    ]
+  },
+  "highlighting": {
+    "adr-c96efc5a0d655c17b76eaf809c9a92b1": {
+      "suggest": [
+        "<b>Damrak</b> 201, Amsterdam"
+      ]
+    },
+    "adr-8f4d573be765b4c80dd635ba73747903": {
+      "suggest": [
+        "<b>Damrak</b> 1, 1012LG Amsterdam"
+      ]
+    },
+    "adr-85feacee577605a8efb24661ebf649f8": {
+      "suggest": [
+        "<b>Damrak</b> 5, 1012LG Amsterdam"
+      ]
+    },
+    "adr-366ad43b3a0954b159415d1cbd3046f8": {
+      "suggest": [
+        "<b>Damrak</b> 6, 1012LG Amsterdam"
+      ]
+    },
+    "adr-707a68489783f2dd1ccd0c080c5840df": {
+      "suggest": [
+        "<b>Damrak</b> 7, 1012LG Amsterdam"
+      ]
+    },
+    "adr-f0a52caf1667bf1d71ad2b8bb9a7ab01": {
+      "suggest": [
+        "<b>Damrak</b> 8-1, 1012LG Amsterdam"
+      ]
+    },
+    "adr-3d5ee2a0d54e85ffb04a5908eeededfd": {
+      "suggest": [
+        "<b>Damrak</b> 8-H, 1012LG Amsterdam"
+      ]
+    },
+    "adr-6ab474f2afaad8b7945e921a3e8c5109": {
+      "suggest": [
+        "<b>Damrak</b> 9, 1012LG Amsterdam"
+      ]
+    },
+    "adr-59de6188fe0dd85338eabf646e2d2625": {
+      "suggest": [
+        "<b>Damrak</b> 10, 1012LG Amsterdam"
+      ]
+    },
+    "adr-92053a76671505cc63454f8157bddfe7": {
+      "suggest": [
+        "<b>Damrak</b> 11-2, 1012LG Amsterdam"
+      ]
+    }
+  },
+  "spellcheck": {
+    "suggestions": [],
+    "collations": []
+  }
+}
