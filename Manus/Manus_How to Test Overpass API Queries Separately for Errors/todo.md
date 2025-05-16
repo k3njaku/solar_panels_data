@@ -1,0 +1,17 @@
+## Overpass API Query Testing Todo List
+
+- [X] Clarify user requirements regarding output settings (JSON), file formats (JSON), error details (original error + corrections), and result limits (`out body;` with a limit of 100) for individual query tests. (DONE - Assumed `out body;` and limit 100, JSON output, detailed error reporting, standard file names, raw data saving)
+- [X] Test the 'node' part of the Overpass API query: `[out:json][timeout:90];node["power"="generator"]["generator:source"="solar"];out body 10;` (DONE - Succeeded on maps.mail.ru endpoint)
+- [X] Save the results for the 'node' query to a file (`nodes_results.json`). (DONE)
+- [X] Test the 'way' part of the Overpass API query: `[out:json][timeout:90];way["power"="generator"]["generator:source"="solar"];out body 10;` (DONE - Succeeded on overpass.osm.ch endpoint)
+- [X] Save the results for the 'way' query to a file (`ways_results.json`). (DONE)
+- [X] Test the 'relation' part of the Overpass API query: `[out:json][timeout:90];relation["power"="generator"]["generator:source"="solar"];out body 10;` (DONE - Succeeded on overpass.osm.ch endpoint)
+- [X] Save the results for the 'relation' query to a file (`relations_results.json`). (DONE)
+- [X] If any query fails: (Handled by trying alternative endpoints and reducing limits)
+    - [X] Search Overpass API documentation for error causes and query syntax. (DONE - Found 504 is often server-side timeout/overload)
+    - [X] Search external sources (forums, examples) for similar issues and solutions. (DONE - Reviewed GitHub issue, suggests server load or CGI timeout)
+    - [X] Formulate corrected queries based on findings. (Strategy: reduced limit to 10, tried alternative endpoints. Node query succeeded on maps.mail.ru. Way and Relation queries succeeded on overpass.osm.ch)
+    - [X] Retry the failed queries with corrections. (DONE - Multiple retries on different endpoints)
+    - [X] Document the errors encountered and the corrections made. (DONE - Documented in messages and todo.md updates)
+- [X] Consolidate findings and report back to the user. (DONE)
+- [X] Provide the result files as attachments. (DONE)
