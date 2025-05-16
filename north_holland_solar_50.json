@@ -1,0 +1,708 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.5 1bd436f1",
+  "osm3s": {
+    "timestamp_osm_base": "2025-05-16T01:41:27Z",
+    "timestamp_areas_base": "2024-12-31T00:49:33Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 2558891512,
+      "lat": 52.6444721,
+      "lon": 4.8144687,
+      "tags": {
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "yes",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2558892207,
+      "lat": 52.6446902,
+      "lon": 4.8141576,
+      "tags": {
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "yes",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2558892210,
+      "lat": 52.6448758,
+      "lon": 4.8138625,
+      "tags": {
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "yes",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2558892213,
+      "lat": 52.6450955,
+      "lon": 4.8135541,
+      "tags": {
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "yes",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6851215097,
+      "lat": 52.3797364,
+      "lon": 4.655932,
+      "tags": {
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "small_installation",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "location": "roof",
+        "power": "generator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6851215098,
+      "lat": 52.3797818,
+      "lon": 4.6557999,
+      "tags": {
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "small_installation",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "location": "roof",
+        "power": "generator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6868198281,
+      "lat": 52.6911245,
+      "lon": 5.0282876,
+      "tags": {
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "yes",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6868198282,
+      "lat": 52.6911245,
+      "lon": 5.0281173,
+      "tags": {
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "yes",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6868198283,
+      "lat": 52.6909738,
+      "lon": 5.0280395,
+      "tags": {
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "yes",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6868198284,
+      "lat": 52.6908778,
+      "lon": 5.0280469,
+      "tags": {
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "yes",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6868240585,
+      "lat": 52.6907413,
+      "lon": 5.0280228,
+      "tags": {
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "yes",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6932342364,
+      "lat": 52.5803944,
+      "lon": 4.6856917,
+      "tags": {
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "yes",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6985774116,
+      "lat": 52.3937659,
+      "lon": 4.6235633,
+      "tags": {
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "yes",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "location": "roof",
+        "power": "generator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7177394651,
+      "lat": 52.3781548,
+      "lon": 4.6558122,
+      "tags": {
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "small_installation",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "location": "roof",
+        "power": "generator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8825990242,
+      "lat": 52.310559,
+      "lon": 5.2427074,
+      "tags": {
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "small_installation",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9761185624,
+      "lat": 52.9628704,
+      "lon": 4.7771644,
+      "tags": {
+        "frequency": "50",
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "yes",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator",
+        "voltage": "230"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10802645245,
+      "lat": 53.0639515,
+      "lon": 4.7602974,
+      "tags": {
+        "frequency": "50",
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "yes",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator",
+        "voltage": "230"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10920988289,
+      "lat": 53.0886348,
+      "lon": 4.7562345,
+      "tags": {
+        "frequency": "50",
+        "generator:method": "photovoltaic",
+        "generator:output:biogas": "yes",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator",
+        "voltage": "400"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10920988290,
+      "lat": 53.0887729,
+      "lon": 4.7590019,
+      "tags": {
+        "frequency": "50",
+        "generator:method": "photovoltaic",
+        "generator:output:biogas": "yes",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator",
+        "voltage": "400"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11042898282,
+      "lat": 53.1438697,
+      "lon": 4.8652605,
+      "tags": {
+        "frequency": "50",
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "yes",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator",
+        "voltage": "400"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11042948877,
+      "lat": 53.0557367,
+      "lon": 4.7868363,
+      "tags": {
+        "frequency": "50",
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "yes",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator",
+        "voltage": "400"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11047777084,
+      "lat": 53.0251295,
+      "lon": 4.7531904,
+      "tags": {
+        "frequency": "50",
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "yes",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator",
+        "voltage": "230"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11047777085,
+      "lat": 53.0252799,
+      "lon": 4.7525756,
+      "tags": {
+        "frequency": "50",
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "yes",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator",
+        "voltage": "230"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11297584519,
+      "lat": 53.0723034,
+      "lon": 4.7585099,
+      "tags": {
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "yes",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "location": "roof",
+        "power": "generator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11297584520,
+      "lat": 53.070795,
+      "lon": 4.7579022,
+      "tags": {
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "yes",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "location": "roof",
+        "power": "generator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11297584524,
+      "lat": 53.0621228,
+      "lon": 4.7684075,
+      "tags": {
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "yes",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "location": "roof",
+        "power": "generator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11919874023,
+      "lat": 52.2575968,
+      "lon": 4.6219664,
+      "tags": {
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "yes",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "location": "roof",
+        "power": "generator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11919874024,
+      "lat": 52.258542,
+      "lon": 4.6234321,
+      "tags": {
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "yes",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "location": "roof",
+        "power": "generator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11919874025,
+      "lat": 52.2588124,
+      "lon": 4.6222367,
+      "tags": {
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "yes",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "location": "roof",
+        "power": "generator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11919874026,
+      "lat": 52.2580694,
+      "lon": 4.6210846,
+      "tags": {
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "yes",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "location": "roof",
+        "power": "generator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11919874027,
+      "lat": 52.2582029,
+      "lon": 4.6221929,
+      "tags": {
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "yes",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "location": "roof",
+        "power": "generator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11919874028,
+      "lat": 52.2586558,
+      "lon": 4.6219416,
+      "tags": {
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "yes",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "location": "roof",
+        "power": "generator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11919874029,
+      "lat": 52.2591667,
+      "lon": 4.6223715,
+      "tags": {
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "yes",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "location": "roof",
+        "power": "generator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11919874030,
+      "lat": 52.2588124,
+      "lon": 4.6230335,
+      "tags": {
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "yes",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "location": "roof",
+        "power": "generator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11919874031,
+      "lat": 52.2585983,
+      "lon": 4.622647,
+      "tags": {
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "yes",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "location": "roof",
+        "power": "generator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11919874032,
+      "lat": 52.2579142,
+      "lon": 4.6214031,
+      "tags": {
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "yes",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "location": "roof",
+        "power": "generator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11919874033,
+      "lat": 52.2579835,
+      "lon": 4.6236034,
+      "tags": {
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "yes",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "location": "roof",
+        "power": "generator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11919874034,
+      "lat": 52.2582468,
+      "lon": 4.6207241,
+      "tags": {
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "yes",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "location": "roof",
+        "power": "generator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11919874035,
+      "lat": 52.2589583,
+      "lon": 4.6227639,
+      "tags": {
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "yes",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "location": "roof",
+        "power": "generator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11919874036,
+      "lat": 52.2575855,
+      "lon": 4.622795,
+      "tags": {
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "yes",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "location": "roof",
+        "power": "generator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11919874037,
+      "lat": 52.2579628,
+      "lon": 4.6229675,
+      "tags": {
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "yes",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "location": "roof",
+        "power": "generator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11919874038,
+      "lat": 52.258816,
+      "lon": 4.6227697,
+      "tags": {
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "yes",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "location": "roof",
+        "power": "generator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11919874039,
+      "lat": 52.2579735,
+      "lon": 4.6228591,
+      "tags": {
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "yes",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "location": "roof",
+        "power": "generator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11919874040,
+      "lat": 52.2581523,
+      "lon": 4.6209142,
+      "tags": {
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "yes",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "location": "roof",
+        "power": "generator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11919874041,
+      "lat": 52.2576592,
+      "lon": 4.6218033,
+      "tags": {
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "yes",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "location": "roof",
+        "power": "generator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11919874042,
+      "lat": 52.2582395,
+      "lon": 4.6222404,
+      "tags": {
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "yes",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "location": "roof",
+        "power": "generator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11919874043,
+      "lat": 52.2579258,
+      "lon": 4.6230285,
+      "tags": {
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "yes",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "location": "roof",
+        "power": "generator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11919874044,
+      "lat": 52.2578331,
+      "lon": 4.6229376,
+      "tags": {
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "yes",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "location": "roof",
+        "power": "generator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11919874045,
+      "lat": 52.2591372,
+      "lon": 4.6224249,
+      "tags": {
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "yes",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "location": "roof",
+        "power": "generator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11919874046,
+      "lat": 52.2573053,
+      "lon": 4.6225429,
+      "tags": {
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "yes",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "location": "roof",
+        "power": "generator"
+      }
+    }
+  ]
+}
