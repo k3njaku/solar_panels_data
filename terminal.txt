@@ -1,0 +1,1018 @@
+[204] Success: Nieuw-Vennep - Zwattingburen 68
+[205/1000] Querying: 52.2610102, 4.6246026 (OSM id 11924851713)
+[205] Success: Nieuw-Vennep - Zwattingburen 8
+[206/1000] Querying: 52.2613593, 4.6224203 (OSM id 11924851714)
+[206] Success: Nieuw-Vennep - Vagerveld 
+[207/1000] Querying: 52.2605266, 4.6219733 (OSM id 11924851715)
+[207] Success: Nieuw-Vennep - Vagerveld 4
+[208/1000] Querying: 52.2617664, 4.622922 (OSM id 11924851716)
+[208] Success: Nieuw-Vennep - Zwattingburen 62
+[209/1000] Querying: 52.2613152, 4.6225499 (OSM id 11924851717)
+[209] Success: Nieuw-Vennep - Vagerveld 
+[210/1000] Querying: 52.2611868, 4.6242429 (OSM id 11924851718)
+[210] Success: Nieuw-Vennep - Zwattingburen 20
+[211/1000] Querying: 52.2618041, 4.6227897 (OSM id 11924851719)
+[211] Success: Nieuw-Vennep - Zwattingburen 66
+[212/1000] Querying: 52.2621238, 4.6247572 (OSM id 11924851720)
+[212] Success: Nieuw-Vennep - Zwattingburen 95
+[213/1000] Querying: 52.261156, 4.6231724 (OSM id 11924851721)
+[213] Success: Nieuw-Vennep - Vagerveld 
+[214/1000] Querying: 52.2610291, 4.6246241 (OSM id 11924851722)
+[214] Success: Nieuw-Vennep - Zwattingburen 8
+[215/1000] Querying: 52.2612446, 4.6228304 (OSM id 11924851723)
+[215] Success: Nieuw-Vennep - Vagerveld 
+[216/1000] Querying: 52.260374, 4.622347 (OSM id 11924851724)
+[216] Success: Nieuw-Vennep - Kalslagerring 
+[217/1000] Querying: 52.2608754, 4.6229057 (OSM id 11924851725)
+[217] Success: Nieuw-Vennep - Vagerveld 34
+[218/1000] Querying: 52.2609332, 4.6223179 (OSM id 11924851726)
+[218] Success: Nieuw-Vennep - Vagerveld 13
+[219/1000] Querying: 52.2614051, 4.6252135 (OSM id 11924851727)
+[219] Success: Nieuw-Vennep - Zwattingburen 9
+[220/1000] Querying: 52.2602893, 4.6226108 (OSM id 11924851728)
+[220] Success: Nieuw-Vennep - Vagerveld 77
+[221/1000] Querying: 52.2611963, 4.6230367 (OSM id 11924851729)
+[221] Success: Nieuw-Vennep - Vagerveld 
+[222/1000] Querying: 52.2611529, 4.6243935 (OSM id 11924851730)
+[222] Success: Nieuw-Vennep - Zwattingburen 16
+[223/1000] Querying: 52.2617087, 4.6231359 (OSM id 11924851732)
+[223] Success: Nieuw-Vennep - Zwattingburen 56
+[224/1000] Querying: 52.2611632, 4.6227315 (OSM id 11924851733)
+[224] Success: Nieuw-Vennep - Vagerveld 
+[225/1000] Querying: 52.2620385, 4.6246306 (OSM id 11924851734)
+[225] Success: Nieuw-Vennep - Zwattingburen 101
+[226/1000] Querying: 52.2606083, 4.6220414 (OSM id 11924851735)
+[226] Success: Nieuw-Vennep - Vagerveld 5
+[227/1000] Querying: 52.2611748, 4.6231062 (OSM id 11924851736)
+[227] Success: Nieuw-Vennep - Vagerveld 
+[228/1000] Querying: 52.2621716, 4.6248313 (OSM id 11924851737)
+[228] Success: Nieuw-Vennep - Zwattingburen 93
+[229/1000] Querying: 52.2615746, 4.6235254 (OSM id 11924851738)
+[229] Success: Nieuw-Vennep - Zwattingburen 44
+[230/1000] Querying: 52.2612776, 4.62269 (OSM id 11924851739)
+[230] Success: Nieuw-Vennep - Vagerveld 
+[231/1000] Querying: 52.2611255, 4.6243605 (OSM id 11924851740)
+[231] Success: Nieuw-Vennep - Zwattingburen 16
+[232/1000] Querying: 52.2610956, 4.6244192 (OSM id 11924851741)
+[232] Success: Nieuw-Vennep - Zwattingburen 14
+[233/1000] Querying: 52.2616025, 4.6255379 (OSM id 11924851742)
+[233] Success: Nieuw-Vennep - Zwattingburen 21
+[234/1000] Querying: 52.2603937, 4.6222829 (OSM id 11924851743)
+[234] Success: Nieuw-Vennep - Vagerveld 
+[235/1000] Querying: 52.2611341, 4.623241 (OSM id 11924851744)
+[235] Success: Nieuw-Vennep - Vagerveld 
+[236/1000] Querying: 52.2604456, 4.6219081 (OSM id 11924851745)
+[236] Success: Nieuw-Vennep - Vagerveld 1
+[237/1000] Querying: 52.2608429, 4.6236999 (OSM id 11924851746)
+[237] Success: Nieuw-Vennep - Vagerveld 
+[238/1000] Querying: 52.2615591, 4.6236031 (OSM id 11924851747)
+[238] Success: Nieuw-Vennep - Zwattingburen 42
+[239/1000] Querying: 52.2602436, 4.6228287 (OSM id 11924851748)
+[239] Success: Nieuw-Vennep - Kalslagerring 
+[240/1000] Querying: 52.2602064, 4.6229649 (OSM id 11924851749)
+[240] Success: Nieuw-Vennep - Kalslagerring 
+[241/1000] Querying: 52.2620621, 4.624667 (OSM id 11924851750)
+[241] Success: Nieuw-Vennep - Zwattingburen 99
+[242/1000] Querying: 52.2612594, 4.6227526 (OSM id 11924851751)
+[242] Success: Nieuw-Vennep - Vagerveld 
+[243/1000] Querying: 52.2610156, 4.6223787 (OSM id 11924851752)
+[243] Success: Nieuw-Vennep - Vagerveld 15
+[244/1000] Querying: 52.2626935, 4.6238267 (OSM id 11926057135)
+[244] Success: Nieuw-Vennep - Kinlozen 36
+[245/1000] Querying: 52.2627076, 4.6206038 (OSM id 11926057136)
+[245] Success: Nieuw-Vennep - Nierop 23
+[246/1000] Querying: 52.2620366, 4.6220707 (OSM id 11926057137)
+[246] Success: Nieuw-Vennep - Kinlozen 39
+[247/1000] Querying: 52.2626647, 4.6237702 (OSM id 11926057138)
+[247] Success: Nieuw-Vennep - Kinlozen 34
+[248/1000] Querying: 52.2617013, 4.6243406 (OSM id 11926057139)
+[248] Success: Nieuw-Vennep - Zwattingburen 47
+[249/1000] Querying: 52.2614625, 4.6204381 (OSM id 11926057140)
+[249] Success: Nieuw-Vennep - Kalslagerring 9
+[250/1000] Querying: 52.262427, 4.6234118 (OSM id 11926057141)
+[250] Success: Nieuw-Vennep - Kinlozen 20
+[251/1000] Querying: 52.2621709, 4.6230929 (OSM id 11926057142)
+[251] Success: Nieuw-Vennep - Kinlozen 6
+[252/1000] Querying: 52.2630147, 4.6233422 (OSM id 11926057143)
+[252] Success: Nieuw-Vennep - Kinlozen 54
+[253/1000] Querying: 52.2630819, 4.6229076 (OSM id 11926057144)
+[253] Success: Nieuw-Vennep - Kinlozen 66
+[254/1000] Querying: 52.2621015, 4.6230072 (OSM id 11926057145)
+[254] Success: Nieuw-Vennep - Kinlozen 2
+[255/1000] Querying: 52.2630817, 4.6213116 (OSM id 11926057146)
+[255] Success: Nieuw-Vennep - Nierop 12
+[256/1000] Querying: 52.2617283, 4.6242914 (OSM id 11926057147)
+[256] Success: Nieuw-Vennep - Zwattingburen 49
+[257/1000] Querying: 52.2629286, 4.623197 (OSM id 11926057148)
+[257] Success: Nieuw-Vennep - Kinlozen 48
+[258/1000] Querying: 52.2638279, 4.6213176 (OSM id 11926057149)
+[258] Success: Nieuw-Vennep - Nierop 104
+[259/1000] Querying: 52.2632867, 4.6216188 (OSM id 11926057150)
+[259] Success: Nieuw-Vennep - Nierop 24
+[260/1000] Querying: 52.263444, 4.6225273 (OSM id 11926057151)
+[260] Success: Nieuw-Vennep - Kinlozen 144
+[261/1000] Querying: 52.2633249, 4.6224287 (OSM id 11926057152)
+[261] Success: Nieuw-Vennep - Kinlozen 138
+[262/1000] Querying: 52.2634495, 4.6208659 (OSM id 11926057153)
+[262] Success: Nieuw-Vennep - Nierop 122
+[263/1000] Querying: 52.2632749, 4.6223956 (OSM id 11926057154)
+[263] Success: Nieuw-Vennep - Kinlozen 136
+[264/1000] Querying: 52.2636152, 4.6209935 (OSM id 11926057155)
+[264] Success: Nieuw-Vennep - Nierop 114
+[265/1000] Querying: 52.2637428, 4.621279 (OSM id 11926057156)
+[265] Success: Nieuw-Vennep - Nierop 108
+[266/1000] Querying: 52.2626976, 4.6206678 (OSM id 11926057157)
+[266] Success: Nieuw-Vennep - Nierop 25
+[267/1000] Querying: 52.2636543, 4.6211805 (OSM id 11926057158)
+[267] Success: Nieuw-Vennep - Nierop 112
+[268/1000] Querying: 52.2623603, 4.621425 (OSM id 11926057159)
+[268] Success: Nieuw-Vennep - Kinlozen 19
+[269/1000] Querying: 52.2619976, 4.6222085 (OSM id 11926057160)
+[269] Success: Nieuw-Vennep - Kinlozen 43
+[270/1000] Querying: 52.2626547, 4.6219638 (OSM id 11926057161)
+[270] Success: Nieuw-Vennep - Kinlozen 108
+[271/1000] Querying: 52.2628054, 4.621686 (OSM id 11926057162)
+[271] Success: Nieuw-Vennep - Kinlozen 118
+[272/1000] Querying: 52.2616514, 4.6244784 (OSM id 11926057163)
+[272] Success: Nieuw-Vennep - Zwattingburen 43
+[273/1000] Querying: 52.2620669, 4.6219171 (OSM id 11926057164)
+[273] Success: Nieuw-Vennep - Kinlozen 35
+[274/1000] Querying: 52.261928, 4.6224009 (OSM id 11926057165)
+[274] Success: Nieuw-Vennep - Kinlozen 49
+[275/1000] Querying: 52.2615001, 4.62044 (OSM id 11926057166)
+[275] Success: Nieuw-Vennep - Kalslagerring 11
+[276/1000] Querying: 52.2620439, 4.6237466 (OSM id 11926057167)
+[276] Success: Nieuw-Vennep - Zwattingburen 69
+[277/1000] Querying: 52.2622445, 4.6231878 (OSM id 11926057168)
+[277] Success: Nieuw-Vennep - Kinlozen 10
+[278/1000] Querying: 52.2623338, 4.6226041 (OSM id 11926114769)
+[278] Success: Nieuw-Vennep - Kinlozen 86
+[279/1000] Querying: 52.2625009, 4.6207895 (OSM id 11926114770)
+[279] Success: Nieuw-Vennep - Kinlozen 1
+[280/1000] Querying: 52.2616878, 4.6205094 (OSM id 11926114771)
+[280] Success: Nieuw-Vennep - Kalslagerring 11
+[281/1000] Querying: 52.2619432, 4.622328 (OSM id 11926114772)
+[281] Success: Nieuw-Vennep - Kinlozen 47
+[282/1000] Querying: 52.2626078, 4.6220943 (OSM id 11926114773)
+[282] Success: Nieuw-Vennep - Kinlozen 104
+[283/1000] Querying: 52.2631012, 4.6229258 (OSM id 11926114774)
+[283] Success: Nieuw-Vennep - Kinlozen 64
+[284/1000] Querying: 52.2635678, 4.6219974 (OSM id 11926114775)
+[284] Success: Nieuw-Vennep - Nierop 40
+[285/1000] Querying: 52.2635322, 4.6209298 (OSM id 11926114776)
+[285] Success: Nieuw-Vennep - Nierop 118
+[286/1000] Querying: 52.2625978, 4.6236767 (OSM id 11926114777)
+[286] Success: Nieuw-Vennep - Kinlozen 30
+[287/1000] Querying: 52.2620753, 4.6236929 (OSM id 11926114778)
+[287] Success: Nieuw-Vennep - Zwattingburen 71
+[288/1000] Querying: 52.2623938, 4.6224906 (OSM id 11926114779)
+[288] Success: Nieuw-Vennep - Kinlozen 90
+[289/1000] Querying: 52.2618197, 4.624125 (OSM id 11926114780)
+[289] Success: Nieuw-Vennep - Zwattingburen 55
+[290/1000] Querying: 52.2636516, 4.6205539 (OSM id 11926114781)
+[290] Success: Nieuw-Vennep - Nierop 74
+[291/1000] Querying: 52.262016, 4.6237967 (OSM id 11926114782)
+[291] Success: Nieuw-Vennep - Zwattingburen 67
+[292/1000] Querying: 52.2623914, 4.6233605 (OSM id 11926114783)
+[292] Success: Nieuw-Vennep - Kinlozen 18
+[293/1000] Querying: 52.2639821, 4.620999 (OSM id 11926114784)
+[293] Success: Nieuw-Vennep - Nierop 90
+[294/1000] Querying: 52.261708, 4.6206103 (OSM id 11926114785)
+[294] Success: Nieuw-Vennep - Kalslagerring 15
+[295/1000] Querying: 52.2635749, 4.6205184 (OSM id 11926114786)
+[295] Success: Nieuw-Vennep - Nierop 72
+[296/1000] Querying: 52.2632498, 4.6215806 (OSM id 11926114787)
+[296] Success: Nieuw-Vennep - Nierop 22
+[297/1000] Querying: 52.2636968, 4.6212449 (OSM id 11926114788)
+[297] Success: Nieuw-Vennep - Nierop 110
+[298/1000] Querying: 52.2633226, 4.6200299 (OSM id 11926114789)
+[298] Success: Nieuw-Vennep - Nierop 64
+[299/1000] Querying: 52.2626818, 4.6237326 (OSM id 11926114790)
+[299] Success: Nieuw-Vennep - Kinlozen 34
+[300/1000] Querying: 52.2619621, 4.6222583 (OSM id 11926114791)
+[300] Success: Nieuw-Vennep - Kinlozen 45
+[301/1000] Querying: 52.2623363, 4.6215681 (OSM id 11926114792)
+[301] Success: Nieuw-Vennep - Kinlozen 23
+[302/1000] Querying: 52.2635341, 4.621949 (OSM id 11926114793)
+[302] Success: Nieuw-Vennep - Nierop 38
+[303/1000] Querying: 52.2631729, 4.6230287 (OSM id 11926114794)
+[303] Success: Nieuw-Vennep - Kinlozen 60
+[304/1000] Querying: 52.2627404, 4.6205421 (OSM id 11926114795)
+[304] Success: Nieuw-Vennep - Nierop 21
+[305/1000] Querying: 52.2638831, 4.6213731 (OSM id 11926114796)
+[305] Success: Nieuw-Vennep - Nierop 102
+[306/1000] Querying: 52.2627412, 4.6204627 (OSM id 11926114797)
+[306] Success: Nieuw-Vennep - Nierop 19
+[307/1000] Querying: 52.2626241, 4.6220204 (OSM id 11926114798)
+[307] Success: Nieuw-Vennep - Kinlozen 106
+[308/1000] Querying: 52.2622903, 4.6240924 (OSM id 11926114799)
+[308] Success: Nieuw-Vennep - Zwattingburen 75
+[309/1000] Querying: 52.2634637, 4.6218537 (OSM id 11926114800)
+[309] Success: Nieuw-Vennep - Nierop 34
+[310/1000] Querying: 52.2618527, 4.6225937 (OSM id 11926114801)
+[310] Success: Nieuw-Vennep - Kinlozen 55
+[311/1000] Querying: 52.2628115, 4.6201789 (OSM id 11926114802)
+[311] Success: Nieuw-Vennep - Nierop 11
+[312/1000] Querying: 52.2624016, 4.6212919 (OSM id 11926114803)
+[312] Success: Nieuw-Vennep - Kinlozen 15
+[313/1000] Querying: 52.2624739, 4.6209309 (OSM id 11926114804)
+[313] Success: Nieuw-Vennep - Kinlozen 5
+[314/1000] Querying: 52.2629955, 4.6221472 (OSM id 11926114805)
+[314] Success: Nieuw-Vennep - Kinlozen 
+[315/1000] Querying: 52.2631474, 4.6229925 (OSM id 11926114806)
+[315] Success: Nieuw-Vennep - Kinlozen 62
+[316/1000] Querying: 52.262123, 4.6217347 (OSM id 11926114807)
+[316] Success: Nieuw-Vennep - Kinlozen 29
+[317/1000] Querying: 52.2633542, 4.6217149 (OSM id 11926114808)
+[317] Success: Nieuw-Vennep - Nierop 28
+[318/1000] Querying: 52.2627015, 4.6228396 (OSM id 11926114809)
+[318] Success: Nieuw-Vennep - Kinlozen 84
+[319/1000] Querying: 52.2627527, 4.6203903 (OSM id 11926114810)
+[319] Success: Nieuw-Vennep - Nierop 17
+[320/1000] Querying: 52.2627227, 4.6238861 (OSM id 11926114811)
+[320] Success: Nieuw-Vennep - Kinlozen 38
+[321/1000] Querying: 52.2616406, 4.6206595 (OSM id 11926114812)
+[321] Success: Nieuw-Vennep - Kalslagerring 15
+[322/1000] Querying: 52.2620905, 4.6218638 (OSM id 11926114813)
+[322] Success: Nieuw-Vennep - Kinlozen 33
+[323/1000] Querying: 52.2630357, 4.6221792 (OSM id 11926114814)
+[323] Success: Nieuw-Vennep - Kinlozen 124
+[324/1000] Querying: 52.261763, 4.6242288 (OSM id 11926114815)
+[324] Success: Nieuw-Vennep - Zwattingburen 51
+[325/1000] Querying: 52.2629779, 4.6211592 (OSM id 11926114816)
+[325] Success: Nieuw-Vennep - Nierop 6
+[326/1000] Querying: 52.2630372, 4.6228415 (OSM id 11926114817)
+[326] Success: Nieuw-Vennep - Kinlozen 68
+[327/1000] Querying: 52.2620172, 4.6221367 (OSM id 11926114818)
+[327] Success: Nieuw-Vennep - Kinlozen 41
+[328/1000] Querying: 52.2640185, 4.6210274 (OSM id 11926114819)
+[328] Success: Nieuw-Vennep - Nierop 92
+[329/1000] Querying: 52.2620049, 4.6188624 (OSM id 11929994786)
+[329] Success: Nieuw-Vennep - Kalslagerring 264
+[330/1000] Querying: 52.2635301, 4.619628 (OSM id 11929994787)
+[330] Success: Nieuw-Vennep - Kalslagerring 566
+[331/1000] Querying: 52.264057, 4.6199333 (OSM id 11929994788)
+[331] Success: Nieuw-Vennep - Kalslagerring 636
+[332/1000] Querying: 52.2639388, 4.6199633 (OSM id 11929994789)
+[332] Success: Nieuw-Vennep - Kalslagerring 664
+[333/1000] Querying: 52.2638319, 4.6198217 (OSM id 11929994790)
+[333] Success: Nieuw-Vennep - Kalslagerring 632
+[334/1000] Querying: 52.2631545, 4.6189942 (OSM id 11929994791)
+[334] Success: Nieuw-Vennep - Kalslagerring 422
+[335/1000] Querying: 52.2631539, 4.6189017 (OSM id 11929994792)
+[335] Success: Nieuw-Vennep - Kalslagerring 453
+[336/1000] Querying: 52.2618881, 4.6191 (OSM id 11929994793)
+[336] Success: Nieuw-Vennep - Kalslagerring 237
+[337/1000] Querying: 52.2636023, 4.6196441 (OSM id 11929994794)
+[337] Success: Nieuw-Vennep - Kalslagerring 546
+[338/1000] Querying: 52.26306, 4.6188568 (OSM id 11929994795)
+[338] Success: Nieuw-Vennep - Kalslagerring 454
+[339/1000] Querying: 52.2630431, 4.6189394 (OSM id 11929994796)
+[339] Success: Nieuw-Vennep - Kalslagerring 424
+[340/1000] Querying: 52.263703, 4.6197882 (OSM id 11929994797)
+[340] Success: Nieuw-Vennep - Kalslagerring 641
+[341/1000] Querying: 52.2619647, 4.6190171 (OSM id 11929994798)
+[341] Success: Nieuw-Vennep - Kalslagerring 225
+[342/1000] Querying: 52.2639441, 4.619879 (OSM id 11929994799)
+[342] Success: Nieuw-Vennep - Kalslagerring 634
+[343/1000] Querying: 52.2598363, 4.6194197 (OSM id 11947049465)
+[343] Success: Nieuw-Vennep - Oetewaal 13
+[344/1000] Querying: 52.2597057, 4.6197542 (OSM id 11947049466)
+[344] Success: Nieuw-Vennep - Oetewaal 17
+[345/1000] Querying: 52.2601239, 4.6209448 (OSM id 11947049467)
+[345] Success: Nieuw-Vennep - Oetewaal 36
+[346/1000] Querying: 52.2601801, 4.6210372 (OSM id 11947049468)
+[346] Success: Nieuw-Vennep - Kalslagerring 42
+[347/1000] Querying: 52.2592361, 4.62015 (OSM id 11947103769)
+[347] Success: Nieuw-Vennep - Gommerskerspel 4
+[348/1000] Querying: 52.2589752, 4.6197886 (OSM id 11947103770)
+[348] Success: Nieuw-Vennep - Gommerskerspel 33
+[349/1000] Querying: 52.2593154, 4.619757 (OSM id 11947103771)
+[349] Success: Nieuw-Vennep - Gommerskerspel 5
+[350/1000] Querying: 52.2604894, 4.6204782 (OSM id 11947103772)
+[350] Success: Nieuw-Vennep - Kalslagerring 52
+[351/1000] Querying: 52.2590966, 4.6192961 (OSM id 11947103773)
+[351] Success: Nieuw-Vennep - Gommerskerspel 26
+[352/1000] Querying: 52.2598059, 4.619527 (OSM id 11947103774)
+[352] Success: Nieuw-Vennep - Oetewaal 14
+[353/1000] Querying: 52.2599045, 4.6189788 (OSM id 11947103775)
+[353] Success: Nieuw-Vennep - Oetewaal 12A
+[354/1000] Querying: 52.2602077, 4.6193216 (OSM id 11947103776)
+[354] Success: Nieuw-Vennep - Oetewaal 8
+[355/1000] Querying: 52.2595244, 4.6187808 (OSM id 11947103777)
+[355] Success: Nieuw-Vennep - Gommerskerspel 17
+[356/1000] Querying: 52.2593659, 4.6195997 (OSM id 11947103778)
+[356] Success: Nieuw-Vennep - Gommerskerspel 7
+[357/1000] Querying: 52.2591482, 4.6189995 (OSM id 11947103779)
+[357] Success: Nieuw-Vennep - Gommerskerspel 23
+[358/1000] Querying: 52.2589018, 4.6198913 (OSM id 11947103780)
+[358] Success: Nieuw-Vennep - Gommerskerspel 33
+[359/1000] Querying: 52.2589636, 4.6199333 (OSM id 11947103781)
+[359] Success: Nieuw-Vennep - Gommerskerspel 34
+[360/1000] Querying: 52.2600711, 4.6198519 (OSM id 11947103782)
+[360] Success: Nieuw-Vennep - Oetewaal 22
+[361/1000] Querying: 52.2594231, 4.6191734 (OSM id 11947103783)
+[361] Success: Nieuw-Vennep - Gommerskerspel 10
+[362/1000] Querying: 52.2603044, 4.6208351 (OSM id 11947103784)
+[362] Success: Nieuw-Vennep - Kalslagerring 46
+[363/1000] Querying: 52.2587252, 4.6198127 (OSM id 11947103785)
+[363] Success: Nieuw-Vennep - Gommerskerspel 30
+[364/1000] Querying: 52.2607232, 4.6200758 (OSM id 11947103786)
+[364] Success: Nieuw-Vennep - Kalslagerring 58
+[365/1000] Querying: 52.2587481, 4.619783 (OSM id 11947103787)
+[365] Success: Nieuw-Vennep - Gommerskerspel 30
+[366/1000] Querying: 52.2604891, 4.6203925 (OSM id 11947103788)
+[366] Success: Nieuw-Vennep - Kalslagerring 54
+[367/1000] Querying: 52.2600125, 4.6197664 (OSM id 11947103789)
+[367] Success: Nieuw-Vennep - Oetewaal 21
+[368/1000] Querying: 52.2603645, 4.6194926 (OSM id 11947103790)
+[368] Success: Nieuw-Vennep - Oetewaal 5
+[369/1000] Querying: 52.2592728, 4.6199742 (OSM id 11947103791)
+[369] Success: Nieuw-Vennep - Gommerskerspel 4
+[370/1000] Querying: 52.259686, 4.618875 (OSM id 11947103792)
+[370] Success: Nieuw-Vennep - Gommerskerspel 14
+[371/1000] Querying: 52.2594777, 4.6188986 (OSM id 11947103793)
+[371] Success: Nieuw-Vennep - Gommerskerspel 16
+[372/1000] Querying: 52.2594758, 4.6187342 (OSM id 11947103794)
+[372] Success: Nieuw-Vennep - Gommerskerspel 18
+[373/1000] Querying: 52.2606089, 4.6201679 (OSM id 11947103795)
+[373] Success: Nieuw-Vennep - Kalslagerring 58
+[374/1000] Querying: 52.2593168, 4.6194545 (OSM id 11947103796)
+[374] Success: Nieuw-Vennep - Gommerskerspel 8
+[375/1000] Querying: 52.2594605, 4.6188658 (OSM id 11947103797)
+[375] Success: Nieuw-Vennep - Gommerskerspel 17
+[376/1000] Querying: 52.25887, 4.6199343 (OSM id 11947103798)
+[376] Success: Nieuw-Vennep - Gommerskerspel 33
+[377/1000] Querying: 52.2588446, 4.6199123 (OSM id 11947103799)
+[377] Success: Nieuw-Vennep - Gommerskerspel 32
+[378/1000] Querying: 52.2602628, 4.6207737 (OSM id 11947103800)
+[378] Success: Nieuw-Vennep - Kalslagerring 46
+[379/1000] Querying: 52.2596579, 4.6199161 (OSM id 11947103801)
+[379] Success: Nieuw-Vennep - Oetewaal 19
+[380/1000] Querying: 52.2605046, 4.6196087 (OSM id 11947103802)
+[380] Success: Nieuw-Vennep - Oetewaal 2
+[381/1000] Querying: 52.2594615, 4.6193548 (OSM id 11947103803)
+[381] Failed: HTTP 403 for 11947103803
+[382/1000] Querying: 52.2593065, 4.6186524 (OSM id 11947103804)
+[382] Failed: HTTP 403 for 11947103804
+[383/1000] Querying: 52.2605796, 4.6203473 (OSM id 11947103805)
+[383] Success: Nieuw-Vennep - Kalslagerring 54
+[384/1000] Querying: 52.2598389, 4.6195556 (OSM id 11947103806)
+[384] Success: Nieuw-Vennep - Oetewaal 14
+[385/1000] Querying: 52.2598654, 4.6191295 (OSM id 11947103807)
+[385] Success: Nieuw-Vennep - Oetewaal 12B
+[386/1000] Querying: 52.2595188, 4.6191791 (OSM id 11947103808)
+[386] Success: Nieuw-Vennep - Gommerskerspel 12
+[387/1000] Querying: 52.260632, 4.6201285 (OSM id 11947103809)
+[387] Success: Nieuw-Vennep - Kalslagerring 58
+[388/1000] Querying: 52.2597807, 4.6196058 (OSM id 11947103810)
+[388] Success: Nieuw-Vennep - Oetewaal 15
+[389/1000] Querying: 52.2600623, 4.6198071 (OSM id 11947103811)
+[389] Success: Nieuw-Vennep - Oetewaal 21
+[390/1000] Querying: 52.2604419, 4.6205706 (OSM id 11947103812)
+[390] Success: Nieuw-Vennep - Kalslagerring 50
+[391/1000] Querying: 52.2603684, 4.6207323 (OSM id 11947103813)
+[391] Success: Nieuw-Vennep - Kalslagerring 48
+[392/1000] Querying: 52.258854, 4.6198603 (OSM id 11947103814)
+[392] Success: Nieuw-Vennep - Gommerskerspel 32
+[393/1000] Querying: 52.260153, 4.6192869 (OSM id 11947103815)
+[393] Success: Nieuw-Vennep - Oetewaal 9
+[394/1000] Querying: 52.2600091, 4.6191589 (OSM id 11947103816)
+[394] Success: Nieuw-Vennep - Oetewaal 12
+[395/1000] Querying: 52.2605138, 4.6203419 (OSM id 11947103817)
+[395] Success: Nieuw-Vennep - Kalslagerring 54
+[396/1000] Querying: 52.2601181, 4.6192226 (OSM id 11947103818)
+[396] Success: Nieuw-Vennep - Oetewaal 10
+[397/1000] Querying: 52.2611589, 4.6193691 (OSM id 12033860600)
+[397] Success: Nieuw-Vennep - Kalslagerring 64
+[398/1000] Querying: 52.2614152, 4.618804 (OSM id 12033860601)
+[398] Success: Nieuw-Vennep - Kalslagerring 70
+[399/1000] Querying: 52.2613554, 4.6190901 (OSM id 12033860602)
+[399] Success: Nieuw-Vennep - Kalslagerring 68
+[400/1000] Querying: 52.2614838, 4.6181544 (OSM id 12033860603)
+[400] Success: Nieuw-Vennep - Smedenweg 56
+[401/1000] Querying: 52.2614612, 4.6180597 (OSM id 12033860604)
+[401] Success: Nieuw-Vennep - Smedenweg 56
+[402/1000] Querying: 52.2610649, 4.6195474 (OSM id 12033860605)
+[402] Success: Nieuw-Vennep - Kalslagerring 62
+[403/1000] Querying: 52.2614465, 4.6188919 (OSM id 12033860606)
+[403] Success: Nieuw-Vennep - Kalslagerring 70
+[404/1000] Querying: 52.2611283, 4.6193029 (OSM id 12033860607)
+[404] Success: Nieuw-Vennep - Kalslagerring 64
+[405/1000] Querying: 52.2613288, 4.6189661 (OSM id 12033860608)
+[405] Success: Nieuw-Vennep - Kalslagerring 68
+[406/1000] Querying: 52.2734438, 4.6423321 (OSM id 12059855292)
+[406] Success: Nieuw-Vennep - Seoellaan 20
+[407/1000] Querying: 52.2732805, 4.6427763 (OSM id 12059855293)
+[407] Success: Nieuw-Vennep - Seoellaan 32
+[408/1000] Querying: 52.2732755, 4.6421228 (OSM id 12059855294)
+[408] Success: Nieuw-Vennep - Seoellaan 24
+[409/1000] Querying: 52.2733296, 4.6422427 (OSM id 12059855295)
+[409] Success: Nieuw-Vennep - Seoellaan 22
+[410/1000] Querying: 52.2733029, 4.6427297 (OSM id 12059855296)
+[410] Success: Nieuw-Vennep - Seoellaan 32
+[411/1000] Querying: 52.2732504, 4.6420986 (OSM id 12059855297)
+[411] Success: Nieuw-Vennep - Seoellaan 24
+[412/1000] Querying: 52.2733575, 4.6421976 (OSM id 12059855298)
+[412] Success: Nieuw-Vennep - Seoellaan 22
+[413/1000] Querying: 52.2732376, 4.6426477 (OSM id 12059855299)
+[413] Success: Nieuw-Vennep - Seoellaan 30
+[414/1000] Querying: 52.273493, 4.642405 (OSM id 12059855300)
+[414] Success: Nieuw-Vennep - Seoellaan 18
+[415/1000] Querying: 52.3083032, 4.6815234 (OSM id 12262920132)
+[415] Success: Hoofddorp - Steve Bikostraat 
+[416/1000] Querying: 52.3079769, 4.6815722 (OSM id 12262920133)
+[416] Success: Hoofddorp - Steve Bikostraat 
+[417/1000] Querying: 52.3081406, 4.6816707 (OSM id 12262920134)
+[417] Success: Hoofddorp - Steve Bikostraat 
+[418/1000] Querying: 52.3082166, 4.681902 (OSM id 12262920135)
+[418] Success: Hoofddorp - Steve Bikostraat 
+[419/1000] Querying: 52.3080588, 4.6818367 (OSM id 12262920136)
+[419] Success: Hoofddorp - Steve Bikostraat 83
+[420/1000] Querying: 52.307934, 4.6816834 (OSM id 12262920137)
+[420] Success: Hoofddorp - Liniepad 
+[421/1000] Querying: 52.4302572, 4.6472157 (OSM id 12480100326)
+[421] Success: Velserbroek - Rijksweg 
+[422/1000] Skipped: Missing coordinates (OSM id 237804824)
+[423/1000] Skipped: Missing coordinates (OSM id 237804966)
+[424/1000] Skipped: Missing coordinates (OSM id 308383576)
+[425/1000] Skipped: Missing coordinates (OSM id 466653881)
+[426/1000] Skipped: Missing coordinates (OSM id 466653882)
+[427/1000] Skipped: Missing coordinates (OSM id 466653883)
+[428/1000] Skipped: Missing coordinates (OSM id 466653884)
+[429/1000] Skipped: Missing coordinates (OSM id 466653885)
+[430/1000] Skipped: Missing coordinates (OSM id 466653886)
+[431/1000] Skipped: Missing coordinates (OSM id 466653887)
+[432/1000] Skipped: Missing coordinates (OSM id 466653888)
+[433/1000] Skipped: Missing coordinates (OSM id 466653889)
+[434/1000] Skipped: Missing coordinates (OSM id 466653890)
+[435/1000] Skipped: Missing coordinates (OSM id 466653891)
+[436/1000] Skipped: Missing coordinates (OSM id 466653892)
+[437/1000] Skipped: Missing coordinates (OSM id 466653893)
+[438/1000] Skipped: Missing coordinates (OSM id 466653894)
+[439/1000] Skipped: Missing coordinates (OSM id 466653895)
+[440/1000] Skipped: Missing coordinates (OSM id 466653896)
+[441/1000] Skipped: Missing coordinates (OSM id 466653897)
+[442/1000] Skipped: Missing coordinates (OSM id 466653898)
+[443/1000] Skipped: Missing coordinates (OSM id 466653899)
+[444/1000] Skipped: Missing coordinates (OSM id 466653900)
+[445/1000] Skipped: Missing coordinates (OSM id 466653901)
+[446/1000] Skipped: Missing coordinates (OSM id 466653902)
+[447/1000] Skipped: Missing coordinates (OSM id 466653903)
+[448/1000] Skipped: Missing coordinates (OSM id 466653904)
+[449/1000] Skipped: Missing coordinates (OSM id 466653905)
+[450/1000] Skipped: Missing coordinates (OSM id 466653906)
+[451/1000] Skipped: Missing coordinates (OSM id 466653907)
+[452/1000] Skipped: Missing coordinates (OSM id 466653908)
+[453/1000] Skipped: Missing coordinates (OSM id 466653909)
+[454/1000] Skipped: Missing coordinates (OSM id 466653910)
+[455/1000] Skipped: Missing coordinates (OSM id 466653911)
+[456/1000] Skipped: Missing coordinates (OSM id 632286812)
+[457/1000] Skipped: Missing coordinates (OSM id 632286813)
+[458/1000] Skipped: Missing coordinates (OSM id 632286816)
+[459/1000] Skipped: Missing coordinates (OSM id 632286818)
+[460/1000] Skipped: Missing coordinates (OSM id 632286822)
+[461/1000] Skipped: Missing coordinates (OSM id 632286826)
+[462/1000] Skipped: Missing coordinates (OSM id 632286830)
+[463/1000] Skipped: Missing coordinates (OSM id 632286834)
+[464/1000] Skipped: Missing coordinates (OSM id 632286838)
+[465/1000] Skipped: Missing coordinates (OSM id 632286842)
+[466/1000] Skipped: Missing coordinates (OSM id 632286846)
+[467/1000] Skipped: Missing coordinates (OSM id 632286849)
+[468/1000] Skipped: Missing coordinates (OSM id 632286853)
+[469/1000] Skipped: Missing coordinates (OSM id 632286855)
+[470/1000] Skipped: Missing coordinates (OSM id 632286856)
+[471/1000] Skipped: Missing coordinates (OSM id 632286857)
+[472/1000] Skipped: Missing coordinates (OSM id 632286858)
+[473/1000] Skipped: Missing coordinates (OSM id 632286859)
+[474/1000] Skipped: Missing coordinates (OSM id 632286862)
+[475/1000] Skipped: Missing coordinates (OSM id 632286871)
+[476/1000] Skipped: Missing coordinates (OSM id 632286873)
+[477/1000] Skipped: Missing coordinates (OSM id 632286874)
+[478/1000] Skipped: Missing coordinates (OSM id 632286875)
+[479/1000] Skipped: Missing coordinates (OSM id 632286876)
+[480/1000] Skipped: Missing coordinates (OSM id 632286877)
+[481/1000] Skipped: Missing coordinates (OSM id 632286878)
+[482/1000] Skipped: Missing coordinates (OSM id 677095387)
+[483/1000] Skipped: Missing coordinates (OSM id 677095395)
+[484/1000] Skipped: Missing coordinates (OSM id 677095414)
+[485/1000] Skipped: Missing coordinates (OSM id 681984560)
+[486/1000] Skipped: Missing coordinates (OSM id 682001141)
+[487/1000] Skipped: Missing coordinates (OSM id 682054155)
+[488/1000] Skipped: Missing coordinates (OSM id 684637501)
+[489/1000] Skipped: Missing coordinates (OSM id 692253272)
+[490/1000] Skipped: Missing coordinates (OSM id 692253278)
+[491/1000] Skipped: Missing coordinates (OSM id 692253279)
+[492/1000] Skipped: Missing coordinates (OSM id 692253280)
+[493/1000] Skipped: Missing coordinates (OSM id 692253281)
+[494/1000] Skipped: Missing coordinates (OSM id 692253282)
+[495/1000] Skipped: Missing coordinates (OSM id 692490207)
+[496/1000] Skipped: Missing coordinates (OSM id 692490208)
+[497/1000] Skipped: Missing coordinates (OSM id 692490209)
+[498/1000] Skipped: Missing coordinates (OSM id 692490210)
+[499/1000] Skipped: Missing coordinates (OSM id 692490211)
+[500/1000] Skipped: Missing coordinates (OSM id 692490212)
+[501/1000] Skipped: Missing coordinates (OSM id 692490213)
+[502/1000] Skipped: Missing coordinates (OSM id 692490215)
+[503/1000] Skipped: Missing coordinates (OSM id 692490216)
+[504/1000] Skipped: Missing coordinates (OSM id 692490217)
+[505/1000] Skipped: Missing coordinates (OSM id 692490218)
+[506/1000] Skipped: Missing coordinates (OSM id 692490219)
+[507/1000] Skipped: Missing coordinates (OSM id 692490220)
+[508/1000] Skipped: Missing coordinates (OSM id 692490221)
+[509/1000] Skipped: Missing coordinates (OSM id 692490222)
+[510/1000] Skipped: Missing coordinates (OSM id 692490223)
+[511/1000] Skipped: Missing coordinates (OSM id 692490224)
+[512/1000] Skipped: Missing coordinates (OSM id 692490225)
+[513/1000] Skipped: Missing coordinates (OSM id 692490226)
+[514/1000] Skipped: Missing coordinates (OSM id 692490227)
+[515/1000] Skipped: Missing coordinates (OSM id 692490228)
+[516/1000] Skipped: Missing coordinates (OSM id 692490229)
+[517/1000] Skipped: Missing coordinates (OSM id 692490230)
+[518/1000] Skipped: Missing coordinates (OSM id 692490231)
+[519/1000] Skipped: Missing coordinates (OSM id 692490232)
+[520/1000] Skipped: Missing coordinates (OSM id 692490239)
+[521/1000] Skipped: Missing coordinates (OSM id 692490243)
+[522/1000] Skipped: Missing coordinates (OSM id 692490244)
+[523/1000] Skipped: Missing coordinates (OSM id 692490245)
+[524/1000] Skipped: Missing coordinates (OSM id 692490246)
+[525/1000] Skipped: Missing coordinates (OSM id 692490247)
+[526/1000] Skipped: Missing coordinates (OSM id 692490251)
+[527/1000] Skipped: Missing coordinates (OSM id 692490252)
+[528/1000] Skipped: Missing coordinates (OSM id 692490253)
+[529/1000] Skipped: Missing coordinates (OSM id 692490254)
+[530/1000] Skipped: Missing coordinates (OSM id 724516000)
+[531/1000] Skipped: Missing coordinates (OSM id 733446429)
+[532/1000] Skipped: Missing coordinates (OSM id 733446430)
+[533/1000] Skipped: Missing coordinates (OSM id 733446431)
+[534/1000] Skipped: Missing coordinates (OSM id 733446432)
+[535/1000] Skipped: Missing coordinates (OSM id 733446433)
+[536/1000] Skipped: Missing coordinates (OSM id 733446434)
+[537/1000] Skipped: Missing coordinates (OSM id 733446435)
+[538/1000] Skipped: Missing coordinates (OSM id 733446436)
+[539/1000] Skipped: Missing coordinates (OSM id 733446437)
+[540/1000] Skipped: Missing coordinates (OSM id 733446438)
+[541/1000] Skipped: Missing coordinates (OSM id 733446439)
+[542/1000] Skipped: Missing coordinates (OSM id 733446440)
+[543/1000] Skipped: Missing coordinates (OSM id 733446441)
+[544/1000] Skipped: Missing coordinates (OSM id 733446442)
+[545/1000] Skipped: Missing coordinates (OSM id 733446443)
+[546/1000] Skipped: Missing coordinates (OSM id 733446444)
+[547/1000] Skipped: Missing coordinates (OSM id 733446445)
+[548/1000] Skipped: Missing coordinates (OSM id 733446446)
+[549/1000] Skipped: Missing coordinates (OSM id 733446447)
+[550/1000] Skipped: Missing coordinates (OSM id 733446448)
+[551/1000] Skipped: Missing coordinates (OSM id 733446449)
+[552/1000] Skipped: Missing coordinates (OSM id 733446450)
+[553/1000] Skipped: Missing coordinates (OSM id 733446451)
+[554/1000] Skipped: Missing coordinates (OSM id 733446452)
+[555/1000] Skipped: Missing coordinates (OSM id 733446453)
+[556/1000] Skipped: Missing coordinates (OSM id 733749993)
+[557/1000] Skipped: Missing coordinates (OSM id 733749994)
+[558/1000] Skipped: Missing coordinates (OSM id 733749995)
+[559/1000] Skipped: Missing coordinates (OSM id 733749996)
+[560/1000] Skipped: Missing coordinates (OSM id 733749997)
+[561/1000] Skipped: Missing coordinates (OSM id 733749998)
+[562/1000] Skipped: Missing coordinates (OSM id 733749999)
+[563/1000] Skipped: Missing coordinates (OSM id 733750000)
+[564/1000] Skipped: Missing coordinates (OSM id 733750001)
+[565/1000] Skipped: Missing coordinates (OSM id 733750002)
+[566/1000] Skipped: Missing coordinates (OSM id 733750003)
+[567/1000] Skipped: Missing coordinates (OSM id 733750004)
+[568/1000] Skipped: Missing coordinates (OSM id 733750005)
+[569/1000] Skipped: Missing coordinates (OSM id 733750006)
+[570/1000] Skipped: Missing coordinates (OSM id 733750007)
+[571/1000] Skipped: Missing coordinates (OSM id 733750008)
+[572/1000] Skipped: Missing coordinates (OSM id 733750009)
+[573/1000] Skipped: Missing coordinates (OSM id 733750010)
+[574/1000] Skipped: Missing coordinates (OSM id 733750011)
+[575/1000] Skipped: Missing coordinates (OSM id 733750012)
+[576/1000] Skipped: Missing coordinates (OSM id 733750013)
+[577/1000] Skipped: Missing coordinates (OSM id 733750014)
+[578/1000] Skipped: Missing coordinates (OSM id 733750015)
+[579/1000] Skipped: Missing coordinates (OSM id 733750016)
+[580/1000] Skipped: Missing coordinates (OSM id 733750017)
+[581/1000] Skipped: Missing coordinates (OSM id 733750018)
+[582/1000] Skipped: Missing coordinates (OSM id 733750019)
+[583/1000] Skipped: Missing coordinates (OSM id 733750020)
+[584/1000] Skipped: Missing coordinates (OSM id 733750021)
+[585/1000] Skipped: Missing coordinates (OSM id 733750022)
+[586/1000] Skipped: Missing coordinates (OSM id 733750023)
+[587/1000] Skipped: Missing coordinates (OSM id 733750024)
+[588/1000] Skipped: Missing coordinates (OSM id 733750025)
+[589/1000] Skipped: Missing coordinates (OSM id 733750026)
+[590/1000] Skipped: Missing coordinates (OSM id 733750027)
+[591/1000] Skipped: Missing coordinates (OSM id 739573255)
+[592/1000] Skipped: Missing coordinates (OSM id 739573256)
+[593/1000] Skipped: Missing coordinates (OSM id 739573257)
+[594/1000] Skipped: Missing coordinates (OSM id 739573258)
+[595/1000] Skipped: Missing coordinates (OSM id 739573259)
+[596/1000] Skipped: Missing coordinates (OSM id 739573260)
+[597/1000] Skipped: Missing coordinates (OSM id 746284339)
+[598/1000] Skipped: Missing coordinates (OSM id 746284340)
+[599/1000] Skipped: Missing coordinates (OSM id 746284341)
+[600/1000] Skipped: Missing coordinates (OSM id 746284342)
+[601/1000] Skipped: Missing coordinates (OSM id 746284343)
+[602/1000] Skipped: Missing coordinates (OSM id 746284344)
+[603/1000] Skipped: Missing coordinates (OSM id 746284345)
+[604/1000] Skipped: Missing coordinates (OSM id 746284346)
+[605/1000] Skipped: Missing coordinates (OSM id 746284347)
+[606/1000] Skipped: Missing coordinates (OSM id 746284348)
+[607/1000] Skipped: Missing coordinates (OSM id 746284349)
+[608/1000] Skipped: Missing coordinates (OSM id 746284350)
+[609/1000] Skipped: Missing coordinates (OSM id 746284351)
+[610/1000] Skipped: Missing coordinates (OSM id 746284352)
+[611/1000] Skipped: Missing coordinates (OSM id 746284353)
+[612/1000] Skipped: Missing coordinates (OSM id 746284354)
+[613/1000] Skipped: Missing coordinates (OSM id 746284355)
+[614/1000] Skipped: Missing coordinates (OSM id 746284356)
+[615/1000] Skipped: Missing coordinates (OSM id 746284357)
+[616/1000] Skipped: Missing coordinates (OSM id 746284358)
+[617/1000] Skipped: Missing coordinates (OSM id 746284359)
+[618/1000] Skipped: Missing coordinates (OSM id 746284360)
+[619/1000] Skipped: Missing coordinates (OSM id 746284361)
+[620/1000] Skipped: Missing coordinates (OSM id 746284362)
+[621/1000] Skipped: Missing coordinates (OSM id 746284363)
+[622/1000] Skipped: Missing coordinates (OSM id 746284364)
+[623/1000] Skipped: Missing coordinates (OSM id 746284365)
+[624/1000] Skipped: Missing coordinates (OSM id 746284366)
+[625/1000] Skipped: Missing coordinates (OSM id 746284367)
+[626/1000] Skipped: Missing coordinates (OSM id 746284368)
+[627/1000] Skipped: Missing coordinates (OSM id 746284369)
+[628/1000] Skipped: Missing coordinates (OSM id 746284370)
+[629/1000] Skipped: Missing coordinates (OSM id 746284371)
+[630/1000] Skipped: Missing coordinates (OSM id 746284372)
+[631/1000] Skipped: Missing coordinates (OSM id 746284373)
+[632/1000] Skipped: Missing coordinates (OSM id 746284374)
+[633/1000] Skipped: Missing coordinates (OSM id 746284375)
+[634/1000] Skipped: Missing coordinates (OSM id 746284376)
+[635/1000] Skipped: Missing coordinates (OSM id 746284377)
+[636/1000] Skipped: Missing coordinates (OSM id 746284378)
+[637/1000] Skipped: Missing coordinates (OSM id 746284379)
+[638/1000] Skipped: Missing coordinates (OSM id 746284380)
+[639/1000] Skipped: Missing coordinates (OSM id 746284381)
+[640/1000] Skipped: Missing coordinates (OSM id 746284382)
+[641/1000] Skipped: Missing coordinates (OSM id 746284383)
+[642/1000] Skipped: Missing coordinates (OSM id 746284384)
+[643/1000] Skipped: Missing coordinates (OSM id 746284385)
+[644/1000] Skipped: Missing coordinates (OSM id 746284386)
+[645/1000] Skipped: Missing coordinates (OSM id 746284387)
+[646/1000] Skipped: Missing coordinates (OSM id 746284388)
+[647/1000] Skipped: Missing coordinates (OSM id 746284389)
+[648/1000] Skipped: Missing coordinates (OSM id 746284390)
+[649/1000] Skipped: Missing coordinates (OSM id 746284391)
+[650/1000] Skipped: Missing coordinates (OSM id 746284392)
+[651/1000] Skipped: Missing coordinates (OSM id 746284393)
+[652/1000] Skipped: Missing coordinates (OSM id 746284394)
+[653/1000] Skipped: Missing coordinates (OSM id 746284395)
+[654/1000] Skipped: Missing coordinates (OSM id 746284396)
+[655/1000] Skipped: Missing coordinates (OSM id 746284397)
+[656/1000] Skipped: Missing coordinates (OSM id 746284398)
+[657/1000] Skipped: Missing coordinates (OSM id 746284399)
+[658/1000] Skipped: Missing coordinates (OSM id 746284400)
+[659/1000] Skipped: Missing coordinates (OSM id 746284401)
+[660/1000] Skipped: Missing coordinates (OSM id 746284402)
+[661/1000] Skipped: Missing coordinates (OSM id 746284403)
+[662/1000] Skipped: Missing coordinates (OSM id 746284404)
+[663/1000] Skipped: Missing coordinates (OSM id 746284405)
+[664/1000] Skipped: Missing coordinates (OSM id 746284406)
+[665/1000] Skipped: Missing coordinates (OSM id 746284407)
+[666/1000] Skipped: Missing coordinates (OSM id 746284408)
+[667/1000] Skipped: Missing coordinates (OSM id 746284409)
+[668/1000] Skipped: Missing coordinates (OSM id 746284410)
+[669/1000] Skipped: Missing coordinates (OSM id 746284411)
+[670/1000] Skipped: Missing coordinates (OSM id 746284412)
+[671/1000] Skipped: Missing coordinates (OSM id 746284413)
+[672/1000] Skipped: Missing coordinates (OSM id 746284414)
+[673/1000] Skipped: Missing coordinates (OSM id 746284415)
+[674/1000] Skipped: Missing coordinates (OSM id 746284416)
+[675/1000] Skipped: Missing coordinates (OSM id 746284417)
+[676/1000] Skipped: Missing coordinates (OSM id 746284418)
+[677/1000] Skipped: Missing coordinates (OSM id 746284419)
+[678/1000] Skipped: Missing coordinates (OSM id 746284420)
+[679/1000] Skipped: Missing coordinates (OSM id 746284421)
+[680/1000] Skipped: Missing coordinates (OSM id 746284422)
+[681/1000] Skipped: Missing coordinates (OSM id 746284423)
+[682/1000] Skipped: Missing coordinates (OSM id 746284424)
+[683/1000] Skipped: Missing coordinates (OSM id 746284425)
+[684/1000] Skipped: Missing coordinates (OSM id 795351489)
+[685/1000] Skipped: Missing coordinates (OSM id 795351490)
+[686/1000] Skipped: Missing coordinates (OSM id 795351491)
+[687/1000] Skipped: Missing coordinates (OSM id 795351492)
+[688/1000] Skipped: Missing coordinates (OSM id 795351493)
+[689/1000] Skipped: Missing coordinates (OSM id 795351494)
+[690/1000] Skipped: Missing coordinates (OSM id 795351495)
+[691/1000] Skipped: Missing coordinates (OSM id 795351496)
+[692/1000] Skipped: Missing coordinates (OSM id 795351497)
+[693/1000] Skipped: Missing coordinates (OSM id 795351498)
+[694/1000] Skipped: Missing coordinates (OSM id 795351499)
+[695/1000] Skipped: Missing coordinates (OSM id 795351500)
+[696/1000] Skipped: Missing coordinates (OSM id 795351501)
+[697/1000] Skipped: Missing coordinates (OSM id 795351502)
+[698/1000] Skipped: Missing coordinates (OSM id 795351503)
+[699/1000] Skipped: Missing coordinates (OSM id 795351504)
+[700/1000] Skipped: Missing coordinates (OSM id 795351505)
+[701/1000] Skipped: Missing coordinates (OSM id 795351506)
+[702/1000] Skipped: Missing coordinates (OSM id 795351507)
+[703/1000] Skipped: Missing coordinates (OSM id 795351508)
+[704/1000] Skipped: Missing coordinates (OSM id 795351509)
+[705/1000] Skipped: Missing coordinates (OSM id 795351510)
+[706/1000] Skipped: Missing coordinates (OSM id 795351511)
+[707/1000] Skipped: Missing coordinates (OSM id 795351512)
+[708/1000] Skipped: Missing coordinates (OSM id 795351513)
+[709/1000] Skipped: Missing coordinates (OSM id 795351514)
+[710/1000] Skipped: Missing coordinates (OSM id 795351515)
+[711/1000] Skipped: Missing coordinates (OSM id 795351516)
+[712/1000] Skipped: Missing coordinates (OSM id 795351517)
+[713/1000] Skipped: Missing coordinates (OSM id 795351518)
+[714/1000] Skipped: Missing coordinates (OSM id 795351519)
+[715/1000] Skipped: Missing coordinates (OSM id 795351520)
+[716/1000] Skipped: Missing coordinates (OSM id 795351521)
+[717/1000] Skipped: Missing coordinates (OSM id 795351522)
+[718/1000] Skipped: Missing coordinates (OSM id 795351523)
+[719/1000] Skipped: Missing coordinates (OSM id 795351524)
+[720/1000] Skipped: Missing coordinates (OSM id 795351525)
+[721/1000] Skipped: Missing coordinates (OSM id 795351526)
+[722/1000] Skipped: Missing coordinates (OSM id 795351527)
+[723/1000] Skipped: Missing coordinates (OSM id 795351528)
+[724/1000] Skipped: Missing coordinates (OSM id 795351529)
+[725/1000] Skipped: Missing coordinates (OSM id 795351530)
+[726/1000] Skipped: Missing coordinates (OSM id 795351531)
+[727/1000] Skipped: Missing coordinates (OSM id 795351532)
+[728/1000] Skipped: Missing coordinates (OSM id 795351533)
+[729/1000] Skipped: Missing coordinates (OSM id 795351534)
+[730/1000] Skipped: Missing coordinates (OSM id 795351535)
+[731/1000] Skipped: Missing coordinates (OSM id 795351536)
+[732/1000] Skipped: Missing coordinates (OSM id 795351537)
+[733/1000] Skipped: Missing coordinates (OSM id 795351538)
+[734/1000] Skipped: Missing coordinates (OSM id 795351539)
+[735/1000] Skipped: Missing coordinates (OSM id 795351540)
+[736/1000] Skipped: Missing coordinates (OSM id 795351541)
+[737/1000] Skipped: Missing coordinates (OSM id 795351542)
+[738/1000] Skipped: Missing coordinates (OSM id 795351543)
+[739/1000] Skipped: Missing coordinates (OSM id 795351544)
+[740/1000] Skipped: Missing coordinates (OSM id 795351545)
+[741/1000] Skipped: Missing coordinates (OSM id 795351546)
+[742/1000] Skipped: Missing coordinates (OSM id 795351547)
+[743/1000] Skipped: Missing coordinates (OSM id 795351548)
+[744/1000] Skipped: Missing coordinates (OSM id 795351549)
+[745/1000] Skipped: Missing coordinates (OSM id 795351550)
+[746/1000] Skipped: Missing coordinates (OSM id 795351551)
+[747/1000] Skipped: Missing coordinates (OSM id 795351552)
+[748/1000] Skipped: Missing coordinates (OSM id 795351553)
+[749/1000] Skipped: Missing coordinates (OSM id 795351554)
+[750/1000] Skipped: Missing coordinates (OSM id 795351557)
+[751/1000] Skipped: Missing coordinates (OSM id 795351564)
+[752/1000] Skipped: Missing coordinates (OSM id 795351570)
+[753/1000] Skipped: Missing coordinates (OSM id 795351574)
+[754/1000] Skipped: Missing coordinates (OSM id 795351579)
+[755/1000] Skipped: Missing coordinates (OSM id 795351580)
+[756/1000] Skipped: Missing coordinates (OSM id 795351581)
+[757/1000] Skipped: Missing coordinates (OSM id 795351582)
+[758/1000] Skipped: Missing coordinates (OSM id 795351583)
+[759/1000] Skipped: Missing coordinates (OSM id 795351584)
+[760/1000] Skipped: Missing coordinates (OSM id 795351585)
+[761/1000] Skipped: Missing coordinates (OSM id 795351586)
+[762/1000] Skipped: Missing coordinates (OSM id 795351587)
+[763/1000] Skipped: Missing coordinates (OSM id 795351588)
+[764/1000] Skipped: Missing coordinates (OSM id 795351589)
+[765/1000] Skipped: Missing coordinates (OSM id 795351590)
+[766/1000] Skipped: Missing coordinates (OSM id 795351591)
+[767/1000] Skipped: Missing coordinates (OSM id 795351592)
+[768/1000] Skipped: Missing coordinates (OSM id 795351593)
+[769/1000] Skipped: Missing coordinates (OSM id 795351594)
+[770/1000] Skipped: Missing coordinates (OSM id 795351595)
+[771/1000] Skipped: Missing coordinates (OSM id 795351596)
+[772/1000] Skipped: Missing coordinates (OSM id 795351597)
+[773/1000] Skipped: Missing coordinates (OSM id 795351598)
+[774/1000] Skipped: Missing coordinates (OSM id 795351599)
+[775/1000] Skipped: Missing coordinates (OSM id 795351600)
+[776/1000] Skipped: Missing coordinates (OSM id 795351601)
+[777/1000] Skipped: Missing coordinates (OSM id 795351602)
+[778/1000] Skipped: Missing coordinates (OSM id 795351603)
+[779/1000] Skipped: Missing coordinates (OSM id 795351604)
+[780/1000] Skipped: Missing coordinates (OSM id 795351605)
+[781/1000] Skipped: Missing coordinates (OSM id 795351606)
+[782/1000] Skipped: Missing coordinates (OSM id 795351607)
+[783/1000] Skipped: Missing coordinates (OSM id 795351608)
+[784/1000] Skipped: Missing coordinates (OSM id 795351609)
+[785/1000] Skipped: Missing coordinates (OSM id 795351610)
+[786/1000] Skipped: Missing coordinates (OSM id 795351611)
+[787/1000] Skipped: Missing coordinates (OSM id 795351612)
+[788/1000] Skipped: Missing coordinates (OSM id 795351613)
+[789/1000] Skipped: Missing coordinates (OSM id 795351614)
+[790/1000] Skipped: Missing coordinates (OSM id 795351615)
+[791/1000] Skipped: Missing coordinates (OSM id 795351616)
+[792/1000] Skipped: Missing coordinates (OSM id 795351617)
+[793/1000] Skipped: Missing coordinates (OSM id 795351618)
+[794/1000] Skipped: Missing coordinates (OSM id 795351619)
+[795/1000] Skipped: Missing coordinates (OSM id 795351620)
+[796/1000] Skipped: Missing coordinates (OSM id 795351621)
+[797/1000] Skipped: Missing coordinates (OSM id 795351622)
+[798/1000] Skipped: Missing coordinates (OSM id 795351623)
+[799/1000] Skipped: Missing coordinates (OSM id 795351624)
+[800/1000] Skipped: Missing coordinates (OSM id 795351625)
+[801/1000] Skipped: Missing coordinates (OSM id 795351626)
+[802/1000] Skipped: Missing coordinates (OSM id 795351627)
+[803/1000] Skipped: Missing coordinates (OSM id 795351628)
+[804/1000] Skipped: Missing coordinates (OSM id 795351629)
+[805/1000] Skipped: Missing coordinates (OSM id 795351630)
+[806/1000] Skipped: Missing coordinates (OSM id 795351631)
+[807/1000] Skipped: Missing coordinates (OSM id 795351632)
+[808/1000] Skipped: Missing coordinates (OSM id 795351633)
+[809/1000] Skipped: Missing coordinates (OSM id 795351634)
+[810/1000] Skipped: Missing coordinates (OSM id 795351635)
+[811/1000] Skipped: Missing coordinates (OSM id 795351636)
+[812/1000] Skipped: Missing coordinates (OSM id 795351637)
+[813/1000] Skipped: Missing coordinates (OSM id 795351638)
+[814/1000] Skipped: Missing coordinates (OSM id 795351639)
+[815/1000] Skipped: Missing coordinates (OSM id 795351640)
+[816/1000] Skipped: Missing coordinates (OSM id 795351641)
+[817/1000] Skipped: Missing coordinates (OSM id 795351642)
+[818/1000] Skipped: Missing coordinates (OSM id 795351643)
+[819/1000] Skipped: Missing coordinates (OSM id 795351644)
+[820/1000] Skipped: Missing coordinates (OSM id 795351645)
+[821/1000] Skipped: Missing coordinates (OSM id 795351646)
+[822/1000] Skipped: Missing coordinates (OSM id 795351647)
+[823/1000] Skipped: Missing coordinates (OSM id 795351648)
+[824/1000] Skipped: Missing coordinates (OSM id 795351649)
+[825/1000] Skipped: Missing coordinates (OSM id 795351650)
+[826/1000] Skipped: Missing coordinates (OSM id 795351651)
+[827/1000] Skipped: Missing coordinates (OSM id 795351652)
+[828/1000] Skipped: Missing coordinates (OSM id 795351653)
+[829/1000] Skipped: Missing coordinates (OSM id 795351654)
+[830/1000] Skipped: Missing coordinates (OSM id 795351655)
+[831/1000] Skipped: Missing coordinates (OSM id 795351656)
+[832/1000] Skipped: Missing coordinates (OSM id 795351657)
+[833/1000] Skipped: Missing coordinates (OSM id 795351658)
+[834/1000] Skipped: Missing coordinates (OSM id 795351659)
+[835/1000] Skipped: Missing coordinates (OSM id 795351660)
+[836/1000] Skipped: Missing coordinates (OSM id 795351661)
+[837/1000] Skipped: Missing coordinates (OSM id 795351662)
+[838/1000] Skipped: Missing coordinates (OSM id 795351663)
+[839/1000] Skipped: Missing coordinates (OSM id 795351664)
+[840/1000] Skipped: Missing coordinates (OSM id 795351665)
+[841/1000] Skipped: Missing coordinates (OSM id 795351666)
+[842/1000] Skipped: Missing coordinates (OSM id 795351667)
+[843/1000] Skipped: Missing coordinates (OSM id 795351668)
+[844/1000] Skipped: Missing coordinates (OSM id 795351669)
+[845/1000] Skipped: Missing coordinates (OSM id 795351670)
+[846/1000] Skipped: Missing coordinates (OSM id 795351671)
+[847/1000] Skipped: Missing coordinates (OSM id 795351672)
+[848/1000] Skipped: Missing coordinates (OSM id 795351673)
+[849/1000] Skipped: Missing coordinates (OSM id 795351674)
+[850/1000] Skipped: Missing coordinates (OSM id 795351675)
+[851/1000] Skipped: Missing coordinates (OSM id 795351676)
+[852/1000] Skipped: Missing coordinates (OSM id 795351677)
+[853/1000] Skipped: Missing coordinates (OSM id 795351678)
+[854/1000] Skipped: Missing coordinates (OSM id 795351679)
+[855/1000] Skipped: Missing coordinates (OSM id 795351680)
+[856/1000] Skipped: Missing coordinates (OSM id 795351681)
+[857/1000] Skipped: Missing coordinates (OSM id 795351682)
+[858/1000] Skipped: Missing coordinates (OSM id 795351683)
+[859/1000] Skipped: Missing coordinates (OSM id 795351684)
+[860/1000] Skipped: Missing coordinates (OSM id 795351685)
+[861/1000] Skipped: Missing coordinates (OSM id 795351686)
+[862/1000] Skipped: Missing coordinates (OSM id 795351687)
+[863/1000] Skipped: Missing coordinates (OSM id 795351688)
+[864/1000] Skipped: Missing coordinates (OSM id 795351689)
+[865/1000] Skipped: Missing coordinates (OSM id 795351690)
+[866/1000] Skipped: Missing coordinates (OSM id 795351691)
+[867/1000] Skipped: Missing coordinates (OSM id 795351692)
+[868/1000] Skipped: Missing coordinates (OSM id 795351693)
+[869/1000] Skipped: Missing coordinates (OSM id 795351694)
+[870/1000] Skipped: Missing coordinates (OSM id 795351695)
+[871/1000] Skipped: Missing coordinates (OSM id 795351696)
+[872/1000] Skipped: Missing coordinates (OSM id 795351697)
+[873/1000] Skipped: Missing coordinates (OSM id 795351698)
+[874/1000] Skipped: Missing coordinates (OSM id 795351699)
+[875/1000] Skipped: Missing coordinates (OSM id 795351700)
+[876/1000] Skipped: Missing coordinates (OSM id 795351701)
+[877/1000] Skipped: Missing coordinates (OSM id 795351702)
+[878/1000] Skipped: Missing coordinates (OSM id 795351703)
+[879/1000] Skipped: Missing coordinates (OSM id 795351704)
+[880/1000] Skipped: Missing coordinates (OSM id 795351705)
+[881/1000] Skipped: Missing coordinates (OSM id 795351706)
+[882/1000] Skipped: Missing coordinates (OSM id 795351707)
+[883/1000] Skipped: Missing coordinates (OSM id 795351708)
+[884/1000] Skipped: Missing coordinates (OSM id 795351709)
+[885/1000] Skipped: Missing coordinates (OSM id 795351710)
+[886/1000] Skipped: Missing coordinates (OSM id 795351711)
+[887/1000] Skipped: Missing coordinates (OSM id 795351712)
+[888/1000] Skipped: Missing coordinates (OSM id 795351713)
+[889/1000] Skipped: Missing coordinates (OSM id 795351714)
+[890/1000] Skipped: Missing coordinates (OSM id 795351715)
+[891/1000] Skipped: Missing coordinates (OSM id 795351716)
+[892/1000] Skipped: Missing coordinates (OSM id 795351717)
+[893/1000] Skipped: Missing coordinates (OSM id 795351718)
+[894/1000] Skipped: Missing coordinates (OSM id 795351719)
+[895/1000] Skipped: Missing coordinates (OSM id 795351720)
+[896/1000] Skipped: Missing coordinates (OSM id 795351721)
+[897/1000] Skipped: Missing coordinates (OSM id 795351722)
+[898/1000] Skipped: Missing coordinates (OSM id 795351723)
+[899/1000] Skipped: Missing coordinates (OSM id 795351724)
+[900/1000] Skipped: Missing coordinates (OSM id 795351725)
+[901/1000] Skipped: Missing coordinates (OSM id 795351726)
+[902/1000] Skipped: Missing coordinates (OSM id 795351727)
+[903/1000] Skipped: Missing coordinates (OSM id 795351728)
+[904/1000] Skipped: Missing coordinates (OSM id 795351729)
+[905/1000] Skipped: Missing coordinates (OSM id 795351730)
+[906/1000] Skipped: Missing coordinates (OSM id 795351731)
+[907/1000] Skipped: Missing coordinates (OSM id 795351732)
+[908/1000] Skipped: Missing coordinates (OSM id 795351733)
+[909/1000] Skipped: Missing coordinates (OSM id 795351734)
+[910/1000] Skipped: Missing coordinates (OSM id 795351735)
+[911/1000] Skipped: Missing coordinates (OSM id 795351736)
+[912/1000] Skipped: Missing coordinates (OSM id 795351737)
+[913/1000] Skipped: Missing coordinates (OSM id 795351738)
+[914/1000] Skipped: Missing coordinates (OSM id 795351739)
+[915/1000] Skipped: Missing coordinates (OSM id 795351740)
+[916/1000] Skipped: Missing coordinates (OSM id 795351741)
+[917/1000] Skipped: Missing coordinates (OSM id 795351742)
+[918/1000] Skipped: Missing coordinates (OSM id 795351743)
+[919/1000] Skipped: Missing coordinates (OSM id 795351744)
+[920/1000] Skipped: Missing coordinates (OSM id 795351745)
+[921/1000] Skipped: Missing coordinates (OSM id 795351746)
+[922/1000] Skipped: Missing coordinates (OSM id 795351747)
+[923/1000] Skipped: Missing coordinates (OSM id 795351748)
+[924/1000] Skipped: Missing coordinates (OSM id 795351749)
+[925/1000] Skipped: Missing coordinates (OSM id 795351750)
+[926/1000] Skipped: Missing coordinates (OSM id 795351751)
+[927/1000] Skipped: Missing coordinates (OSM id 795351752)
+[928/1000] Skipped: Missing coordinates (OSM id 795351753)
+[929/1000] Skipped: Missing coordinates (OSM id 795351754)
+[930/1000] Skipped: Missing coordinates (OSM id 795351755)
+[931/1000] Skipped: Missing coordinates (OSM id 795351756)
+[932/1000] Skipped: Missing coordinates (OSM id 795351757)
+[933/1000] Skipped: Missing coordinates (OSM id 795351758)
+[934/1000] Skipped: Missing coordinates (OSM id 795351759)
+[935/1000] Skipped: Missing coordinates (OSM id 795351760)
+[936/1000] Skipped: Missing coordinates (OSM id 795351761)
+[937/1000] Skipped: Missing coordinates (OSM id 795351762)
+[938/1000] Skipped: Missing coordinates (OSM id 795351763)
+[939/1000] Skipped: Missing coordinates (OSM id 795351764)
+[940/1000] Skipped: Missing coordinates (OSM id 795351765)
+[941/1000] Skipped: Missing coordinates (OSM id 795351766)
+[942/1000] Skipped: Missing coordinates (OSM id 795351767)
+[943/1000] Skipped: Missing coordinates (OSM id 795351768)
+[944/1000] Skipped: Missing coordinates (OSM id 795351769)
+[945/1000] Skipped: Missing coordinates (OSM id 795351770)
+[946/1000] Skipped: Missing coordinates (OSM id 795351771)
+[947/1000] Skipped: Missing coordinates (OSM id 795351772)
+[948/1000] Skipped: Missing coordinates (OSM id 795351773)
+[949/1000] Skipped: Missing coordinates (OSM id 795351774)
+[950/1000] Skipped: Missing coordinates (OSM id 795351775)
+[951/1000] Skipped: Missing coordinates (OSM id 795351776)
+[952/1000] Skipped: Missing coordinates (OSM id 795351777)
+[953/1000] Skipped: Missing coordinates (OSM id 795351778)
+[954/1000] Skipped: Missing coordinates (OSM id 795351779)
+[955/1000] Skipped: Missing coordinates (OSM id 795351780)
+[956/1000] Skipped: Missing coordinates (OSM id 795351781)
+[957/1000] Skipped: Missing coordinates (OSM id 795351782)
+[958/1000] Skipped: Missing coordinates (OSM id 795351783)
+[959/1000] Skipped: Missing coordinates (OSM id 795351784)
+[960/1000] Skipped: Missing coordinates (OSM id 795351785)
+[961/1000] Skipped: Missing coordinates (OSM id 795351786)
+[962/1000] Skipped: Missing coordinates (OSM id 795351787)
+[963/1000] Skipped: Missing coordinates (OSM id 795351788)
+[964/1000] Skipped: Missing coordinates (OSM id 795351789)
+[965/1000] Skipped: Missing coordinates (OSM id 795351790)
+[966/1000] Skipped: Missing coordinates (OSM id 795351791)
+[967/1000] Skipped: Missing coordinates (OSM id 795351792)
+[968/1000] Skipped: Missing coordinates (OSM id 795351793)
+[969/1000] Skipped: Missing coordinates (OSM id 795351794)
+[970/1000] Skipped: Missing coordinates (OSM id 795351795)
+[971/1000] Skipped: Missing coordinates (OSM id 795351796)
+[972/1000] Skipped: Missing coordinates (OSM id 795351797)
+[973/1000] Skipped: Missing coordinates (OSM id 795351798)
+[974/1000] Skipped: Missing coordinates (OSM id 795351799)
+[975/1000] Skipped: Missing coordinates (OSM id 795351800)
+[976/1000] Skipped: Missing coordinates (OSM id 795351801)
+[977/1000] Skipped: Missing coordinates (OSM id 795351802)
+[978/1000] Skipped: Missing coordinates (OSM id 795351803)
+[979/1000] Skipped: Missing coordinates (OSM id 795351804)
+[980/1000] Skipped: Missing coordinates (OSM id 795351805)
+[981/1000] Skipped: Missing coordinates (OSM id 795351806)
+[982/1000] Skipped: Missing coordinates (OSM id 795351807)
+[983/1000] Skipped: Missing coordinates (OSM id 795351808)
+[984/1000] Skipped: Missing coordinates (OSM id 795351809)
+[985/1000] Skipped: Missing coordinates (OSM id 795351810)
+[986/1000] Skipped: Missing coordinates (OSM id 795351811)
+[987/1000] Skipped: Missing coordinates (OSM id 795351812)
+[988/1000] Skipped: Missing coordinates (OSM id 795351813)
+[989/1000] Skipped: Missing coordinates (OSM id 795351814)
+[990/1000] Skipped: Missing coordinates (OSM id 795351815)
+[991/1000] Skipped: Missing coordinates (OSM id 795351816)
+[992/1000] Skipped: Missing coordinates (OSM id 795351817)
+[993/1000] Skipped: Missing coordinates (OSM id 795351818)
+[994/1000] Skipped: Missing coordinates (OSM id 795351819)
+[995/1000] Skipped: Missing coordinates (OSM id 795351820)
+[996/1000] Skipped: Missing coordinates (OSM id 795351821)
+[997/1000] Skipped: Missing coordinates (OSM id 795351822)
+[998/1000] Skipped: Missing coordinates (OSM id 795351823)
+[999/1000] Skipped: Missing coordinates (OSM id 795351824)
+[1000/1000] Skipped: Missing coordinates (OSM id 795351825)
+
+All done! CSV saved to:
+C:\TJ\SolarPan2\Output\north_holland_solar_1000_filled.csv
+PS C:\TJ\SolarPan2> 
